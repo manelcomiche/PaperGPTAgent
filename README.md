@@ -8,16 +8,15 @@ To run this application, make sure you have Node.js installed on your system. If
 
 1. Clone this repository to your local machine:
 
-    git clone https://github.com/yourusername/research-paper-generator.git
+    git clone https://github.com/LHCLYT/PaperGPTAgent
 
 2. Navigate to the project directory:
 
-    cd research-paper-generator
+    cd PaperGPTAgent
 
 3. Run the app using Node.js:
 
     node index.js
-
 
 4. Follow the on-screen instructions to generate your research paper. 📄🖋️
 
