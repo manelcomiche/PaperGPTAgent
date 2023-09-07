@@ -1,0 +1,13 @@
+# Abstract
+
+This research paper aims to analyze the linguistic diversity on social media platforms. The increasing popularity and usage of social media have created a diverse linguistic landscape, where users communicate in various languages and language varieties. Understanding the linguistic diversity on social media is crucial for several reasons, including promoting inclusivity, language preservation, and developing effective communication strategies.
+
+To achieve this objective, this study employs a mixed-methods approach that combines quantitative and qualitative analysis. Data were collected from different social media platforms through web scraping techniques and analyzed using various data analysis techniques. The research focuses on two case studies, Twitter and Facebook, to provide a comprehensive understanding of linguistic diversity across different platforms.
+
+Preliminary findings indicate that social media platforms exhibit significant linguistic diversity, with users communicating in multiple languages, dialects, and language varieties. The analysis reveals variations in the levels of linguistic diversity between the two platforms, suggesting that platform-specific factors influence users' linguistic behavior.
+
+This research also discusses the impact of linguistic diversity on social media in terms of its implications for communication, language preservation, and social inclusion. Additionally, it highlights the challenges and opportunities associated with managing linguistic diversity on social media platforms.
+
+The findings of this study will contribute to the existing literature on linguistic diversity and social media by providing insights into the linguistic landscape of these platforms. The analysis will also offer practical implications for platform administrators, policymakers, and linguists in managing and promoting linguistic diversity on social media.
+
+Keywords: linguistic diversity, social media, communication, language preservation, social inclusion

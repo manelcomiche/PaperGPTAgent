@@ -1,0 +1,37 @@
+# Methodology for Analyzing Linguistic Diversity
+
+## 3.1 Research Design
+
+To analyze linguistic diversity on social media, a mixed-methods research design will be employed. This approach combines quantitative and qualitative methods to provide a comprehensive understanding of the linguistic practices and dynamics on social media platforms.
+
+## 3.2 Data Collection
+
+The first step in analyzing linguistic diversity on social media is to collect data from the target platforms. In this study, Twitter and Facebook will be selected as the primary platforms for data collection. These platforms were chosen due to their popularity and widespread usage across different language communities.
+
+To collect data from Twitter, a systematic sampling approach will be employed. A random sample of tweets will be collected using specific search queries or hashtags related to the research topic. The sample will include tweets from different regions and language communities to ensure a diverse representation of languages and language varieties.
+
+For data collection from Facebook, a combination of methods will be used. Firstly, public posts and comments will be collected from public pages and groups that cover a wide range of topics and have a diverse user base. Secondly, user-generated content will be collected through the use of online surveys or consent-based data collection methods. This will allow for the collection of data from individuals who are willing to participate in the study and share their language use on Facebook.
+
+## 3.3 Data Analysis
+
+The collected data will be analyzed using both quantitative and qualitative methods. The quantitative analysis will involve the use of statistical techniques to examine patterns and trends in the data. This may include frequency counts, language identification algorithms, and statistical tests to compare the distribution of languages and language varieties.
+
+Qualitative analysis will involve a close examination of the linguistic features, language variation, and language change observed in the data. This may include the identification of code-switching or translanguaging practices, the analysis of dialectal features or non-standard language use, and the exploration of emerging linguistic norms or innovations.
+
+To ensure the reliability and validity of the analysis, intercoder reliability tests will be conducted for qualitative analysis. This involves multiple researchers independently coding a subset of the data and comparing their findings to assess the level of agreement. Any discrepancies will be resolved through discussion and consensus.
+
+## 3.4 Ethical Considerations
+
+Ethical considerations are crucial when conducting research on social media platforms. The privacy and consent of users must be respected, and data collection should adhere to ethical guidelines and regulations. In this study, all data collected will be anonymized and aggregated to ensure the confidentiality of users' identities.
+
+Additionally, informed consent will be obtained from participants who voluntarily contribute their data through online surveys or consent-based data collection methods. Participants will be provided with clear information about the purpose of the study, the types of data collected, and how their data will be used. They will also have the option to withdraw their consent at any time.
+
+## 3.5 Limitations
+
+It is important to acknowledge the limitations of the methodology for analyzing linguistic diversity on social media. Firstly, the data collected may not be fully representative of the entire user base of the platforms. Users who are more active or vocal on social media may be overrepresented in the data, while others may be underrepresented.
+
+Secondly, the analysis of linguistic diversity on social media is subject to the limitations of language identification algorithms and tools. These tools may not accurately identify all languages or language varieties, especially in cases of code-switching or translanguaging.
+
+Lastly, the ethical considerations and privacy concerns associated with data collection on social media platforms should be carefully addressed. Researchers must ensure that they comply with ethical guidelines and regulations to protect the privacy and confidentiality of users.
+
+Despite these limitations, the methodology outlined in this section provides a systematic and comprehensive approach to analyzing linguistic diversity on social media platforms. The next section will describe the process of data collection from social media platforms.

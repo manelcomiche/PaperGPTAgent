@@ -1,0 +1,23 @@
+# Metodologia de la recerca
+
+En aquesta secció, presentarem la metodologia utilitzada per dur a terme la recerca sobre la integració de la intel·ligència artificial (IA) en l'educació. Explicarem els passos seguits per recopilar i analitzar les dades, així com les tècniques utilitzades per obtenir resultats significatius i fiables.
+
+## Disseny de la recerca
+El primer pas en la metodologia de recerca va ser dissenyar un pla de recerca adequat per a l'estudi. Es va definir l'objectiu de la recerca, que era investigar l'impacte de la IA en l'educació, i es van identificar les preguntes de recerca pertinents. A més, es va establir el context de l'estudi, incloent la població d'estudiants i professors, i es van determinar les variables a mesurar.
+
+## Recopilació de dades
+Es van utilitzar diverses tècniques per recopilar dades per a l'estudi. Això va incloure observacions de classes per observar directament l'ús de la IA en l'educació, entrevistes amb professors per recopilar les seves opinions i experiències, i enquestes als estudiants per obtenir les seves impressions i punts de vista. A més, es van recopilar dades de documents i recursos relacionats amb la implementació de la IA en l'educació.
+
+## Anàlisi de dades
+Després de recopilar les dades, es va procedir a l'anàlisi per obtenir resultats significatius. Es van utilitzar tècniques d'anàlisi de contingut per identificar temes i patrons rellevants en les entrevistes i les respostes de les enquestes. Les observacions de classe es van analitzar per identificar l'ús de la IA i les pràctiques educatives relacionades. A més, es van utilitzar mètodes estadístics per analitzar les dades quantitatives obtingudes de les enquestes.
+
+## Validesa i fiabilitat
+Per assegurar la validesa i la fiabilitat dels resultats, es van prendre diverses mesures. Es va utilitzar una combinació de tècniques de recopilació de dades per obtenir una perspectiva completa i enriquidora. A més, es va garantir la confidencialitat i l'anonimat de les dades per obtenir respostes sinceres i obertes. Es va realitzar una triangulació de dades, comparant els resultats obtinguts de diferents tècniques per aconseguir una validesa múltiple.
+
+## Limitacions de la recerca
+Cal tenir en compte que aquesta recerca té algunes limitacions. Primer, l'estudi es va realitzar en una única escola catalana, de manera que els resultats poden no ser generalitzables a altres contextos educatius. A més, la recerca es va centrar en una implementació específica de la IA en l'educació, de manera que altres aplicacions de la IA podrien no estar representades. Cal tenir en compte aquestes limitacions en la interpretació dels resultats.
+
+## Ètica de la recerca
+Finalment, cal destacar que es van complir els principis ètics en la realització de la recerca. Es va obtenir el consentiment informat dels participants, s'assegurava la confidencialitat de les seves respostes i es va assegurar que la recerca no causés cap dany o perjudici als participants.
+
+En resum, la metodologia de recerca utilitzada per investigar la integració de la IA en l'educació va incloure el disseny de la recerca, la recopilació de dades mitjançant diverses tècniques, l'anàlisi de dades per obtenir resultats significatius i la consideració de la validesa, la fiabilitat i els principis ètics. Aquesta metodologia va permetre obtenir informació rellevant sobre l'impacte de la IA en l'educació i els aspectes relacionats.

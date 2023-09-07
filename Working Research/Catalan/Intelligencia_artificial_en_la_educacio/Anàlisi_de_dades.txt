@@ -1,0 +1,25 @@
+# Anàlisi de dades
+
+En aquesta secció, realitzarem l'anàlisi de les dades recopilades en l'estudi sobre la integració de la intel·ligència artificial (IA) en l'educació. Examinarem les dades obtingudes de les observacions de classe, les entrevistes amb professors i les enquestes als estudiants per identificar temes i patrons rellevants. A través de l'anàlisi de dades, buscarem obtenir una comprensió més profunda de l'impacte de la IA en l'àmbit educatiu.
+
+## Observacions de classe
+Durant les observacions de classe, es van recopilar dades sobre l'ús de la IA en l'educació i les pràctiques educatives dels professors. Es van registrar les activitats realitzades amb l'ajuda de la IA, com ara l'ús de sistemes d'aprenentatge personalitzats i la implementació de recursos de tutoria intel·ligent. A més, es va observar la interacció entre els estudiants i la tecnologia, així com l'efecte de la IA en el ritme d'aprenentatge i el rendiment dels estudiants.
+
+A partir de les observacions de classe, es van identificar temes comuns, com ara l'adaptació del contingut a les necessitats individuals dels estudiants, la retroalimentació immediata i personalitzada proporcionada per la IA, i l'impacte de la IA en la motivació i l'engagement dels estudiants.
+
+## Entrevistes amb professors
+Les entrevistes amb professors van proporcionar una comprensió més profunda de les seves experiències i opinions sobre la integració de la IA en l'educació. Es van realitzar entrevistes semiestructurades per explorar els beneficis, els desafiaments i les estratègies relacionades amb l'ús de la IA. Es van registrar les respostes dels professors i es van analitzar per identificar temes i tendències.
+
+A través de les entrevistes amb professors, es van identificar temes comuns, com ara la personalització de l'aprenentatge, la millora de l'avaluació i el seguiment del progrés dels estudiants, i els desafiaments relacionats amb la falta de dades i la qualitat de les dades utilitzades en els sistemes d'IA.
+
+## Enquestes als estudiants
+Les enquestes als estudiants van proporcionar una visió de primera mà de les seves experiències i percepcions sobre l'ús de la IA en l'educació. Es van utilitzar preguntes estructurades per obtenir respostes quantitatives i qualitatives dels estudiants sobre temes com la personalització de l'aprenentatge, la retroalimentació proporcionada per la IA i l'impacte en el seu aprenentatge.
+
+Les respostes de les enquestes es van analitzar utilitzant tècniques d'anàlisi de contingut per identificar temes recurrents i patrons significatius. A partir d'aquesta anàlisi, es van obtenir dades quantitatives que van permetre una comprensió més precisa de les percepcions dels estudiants sobre l'ús de la IA.
+
+## Resultats de l'anàlisi de dades
+L'anàlisi de dades va revelar diversos resultats significatius sobre l'impacte de la IA en l'educació. Es van identificar temes comuns, com ara la personalització de l'aprenentatge, la retroalimentació immediata i personalitzada, la millora de l'avaluació i el seguiment del progrés dels estudiants, i la promoció de la col·laboració i la interacció entre els estudiants.
+
+A través de l'anàlisi de dades, es va obtenir una comprensió més completa dels beneficis i desafiaments de la integració de la IA en l'educació, així com de les pràctiques educatives relacionades. Aquesta informació és essencial per a la presa de decisions informades i per a l'optimització de l'experiència educativa amb l'ús de la IA.
+
+En resum, l'anàlisi de dades ha permès identificar temes i patrons rellevants sobre l'impacte de la IA en l'educació. A partir de les observacions de classe, les entrevistes amb professors i les enquestes als estudiants, s'han obtingut resultats significatius que proporcionen una comprensió més profunda de l'ús de la IA i les seves implicacions en l'àmbit educatiu. Aquesta informació és essencial per a una presa de decisions informada i per a l'avançament de l'ús de la IA en l'educació.

@@ -1,0 +1,27 @@
+# Methodology
+
+4.1 Research Design
+
+This study employs a mixed-methods research design to analyze the linguistic diversity on social media platforms. A combination of quantitative and qualitative techniques will be used to collect and analyze data, allowing for a comprehensive exploration of language use patterns and the influence of social and cultural factors.
+
+4.2 Data Collection
+
+To collect data for this study, a multi-stage sampling technique will be employed. First, a selection of popular social media platforms will be identified, considering factors such as user base size and geographic diversity. These platforms may include Facebook, Twitter, Instagram, and Snapchat. A stratified random sampling approach will then be used to select a diverse range of users from each platform.
+
+Data collection will involve the extraction of publicly available posts and interactions on the selected social media platforms. This data will include textual content, such as status updates, comments, and replies. Additionally, metadata, such as user demographics and location, will be collected to examine the influence of social and cultural factors on language use.
+
+4.3 Data Analysis
+
+The collected data will be analyzed using both quantitative and qualitative methods to address the research questions. Quantitative analysis will involve statistical techniques to examine the prevalence of different languages on social media platforms, language use patterns, and code-switching frequency. Descriptive statistics, such as frequency distributions and percentages, will be used to summarize the quantitative data.
+
+Qualitative analysis will involve a thematic analysis of the textual data to explore the sociolinguistic dynamics and language ideologies that shape language use on social media platforms. The analysis will focus on identifying recurring themes and patterns related to cultural norms, identity negotiation, and language vitality. Coding schemes will be developed to categorize and analyze the qualitative data, ensuring rigor and reliability in the analysis process.
+
+4.4 Ethical Considerations
+
+This study will adhere to ethical guidelines for research involving human subjects. Informed consent will be obtained from the participants, and their identities will be anonymized during data analysis and reporting. Additionally, efforts will be made to protect the privacy and confidentiality of the participants by securely storing and handling the collected data.
+
+4.5 Limitations
+
+It is important to acknowledge the limitations of this study. Firstly, the data collected will be limited to publicly available posts and interactions, which may not capture the full range of language use on social media platforms. Additionally, the study's findings will be context-specific and may not be generalizable to all social media users. Lastly, the analysis of social and cultural factors influencing language use will rely on self-reported user demographics, which may introduce bias or inaccuracies.
+
+Despite these limitations, this study aims to provide valuable insights into the linguistic diversity on social media platforms and the factors that shape language use. The next sections will present the data collection process, data analysis techniques, and the findings of this study.

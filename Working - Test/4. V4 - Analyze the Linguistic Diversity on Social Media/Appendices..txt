@@ -1,0 +1,19 @@
+# Appendices
+
+Appendices provide supplementary information that supports the main content of the research paper. This section includes additional materials that are relevant to the study but may be too extensive or detailed to include in the main body of the paper. Appendices should be labeled with letters (e.g., Appendix A, Appendix B) and titled appropriately.
+
+The specific content of the appendices will depend on the nature of your research and the requirements of your paper. Here are some examples of the types of material that can be included in appendices:
+
+1. **Additional Data**: Raw data, survey responses, or interview transcripts that were collected during the study but are not included in the main body of the paper. These materials can provide further insights into the linguistic diversity on social media and support the findings presented in the research paper.
+
+2. **Supplementary Figures and Tables**: Additional charts, graphs, tables, or visual representations that provide more detailed information or support the analysis presented in the main body of the paper. Including these supplementary figures and tables in the appendices allows readers to access the complete set of data.
+
+3. **Research Instruments**: If your research involved the use of specific instruments, such as questionnaires or surveys, include copies of these instruments in the appendices. This allows readers to understand the questions asked and the methodology used in the study.
+
+4. **Ethical Approval Documentation**: If your research involved human subjects, include copies of ethical approval documentation from the relevant institutional review board (IRB) or ethics committee. This demonstrates that your research was conducted in an ethical manner, ensuring the rights and well-being of participants.
+
+5. **Technical Details**: If your research involved complex technical procedures, algorithms, or software code, consider including this information in the appendices. This allows readers who are interested in the technical aspects of the study to review and replicate the procedures.
+
+Remember to reference the appendices within the main body of the paper when necessary, directing readers to the relevant appendix for further details or supporting information. Appendices should be clearly organized and labeled for easy reference.
+
+Note: The content and organization of appendices may vary based on the requirements of your research paper and the guidelines provided by your academic institution. Consult the specific requirements and formatting guidelines provided by your institution or the target journal to ensure your appendices adhere to the recommended standards.

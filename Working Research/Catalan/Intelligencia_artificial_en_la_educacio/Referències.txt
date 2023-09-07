@@ -1,0 +1,21 @@
+# Referències
+
+1. Clark, R., Luckin, R., Mavrikis, M., & Oliver, M. (2016). Rethinking learning in the digital age: Making the learning sciences count. Routledge.
+
+2. Dillenbourg, P., & Jermann, P. (2007). Designing integrative scripts. In F. Fischer, I. Kollar, H. Mandl, & J. M. Haake (Eds.), Scripting computer-supported collaborative learning: Cognitive, computational and educational perspectives (pp. 275-302). Springer.
+
+3. Koedinger, K. R., & Aleven, V. (2007). Exploring the assistance dilemma in experiments with cognitive tutors. Educational Psychology Review, 19(3), 239-264.
+
+4. Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence Unleashed: An argument for AI in Education. Pearson.
+
+5. Papamitsiou, Z., & Economides, A. A. (2014). Learning analytics and educational data mining in practice: A systematic literature review of empirical evidence. Educational Technology & Society, 17(4), 49-64.
+
+6. Siemens, G., & Baker, R. S. (2012). Learning analytics and educational data mining: Towards communication and collaboration. In Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (pp. 252-254). ACM.
+
+7. VanLehn, K., Lynch, C., Schulze, K., Shapiro, J. A., Shelby, R., Taylor, L., & Treacy, D. (2005). The Andes physics tutoring system: Lessons learned. International Journal of Artificial Intelligence in Education, 15(3), 147-204.
+
+8. Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Harvard University Press.
+
+9. Woolf, B. P. (2010). Building intelligent interactive tutors: Student-centered strategies for revolutionizing e-learning. Morgan Kaufmann.
+
+10. Zhu, X., & Xie, S. (2012). Education data mining and learning analytics. In Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (pp. 289-292). ACM.

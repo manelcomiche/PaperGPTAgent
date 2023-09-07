@@ -1,0 +1,24 @@
+{
+  "name": "eduproject",
+  "version": "1.0.0",
+  "description": "a simple education proyect test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lhclyt",
+  "license": "ISC",
+  "dependencies": {
+    "@waylaidwanderer/fetch-event-source": "^3.0.1",
+    "chalk-animation": "^2.0.3",
+    "common-tags": "^1.8.2",
+    "delay": "^6.0.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.10",
+    "nanospinner": "^1.1.0",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7"
+  },
+  "type": "module"
+}

@@ -1,0 +1,27 @@
+# Data Analysis
+
+6.1 Quantitative Analysis
+
+The quantitative analysis will focus on examining the prevalence of different languages on social media platforms, language use patterns, and code-switching frequency. Descriptive statistics, such as frequency distributions and percentages, will be used to summarize the quantitative data.
+
+To determine the prevalence of different languages, the collected data will be analyzed to identify the languages used in the posts and interactions. The frequency of each language will be calculated, providing insights into the linguistic diversity observed on social media platforms.
+
+Language use patterns will be analyzed by examining the frequency of specific linguistic features, such as the use of colloquial language, slang, or formal language. The aim is to identify the common language practices and preferences among social media users.
+
+The frequency of code-switching will also be analyzed to understand its prevalence in online conversations. Code-switching instances will be identified, categorized, and quantified, providing insights into the patterns and motivations behind code-switching on social media platforms.
+
+6.2 Qualitative Analysis
+
+The qualitative analysis will involve a thematic analysis of the textual data to explore the sociolinguistic dynamics and language ideologies that shape language use on social media platforms. The analysis will focus on identifying recurring themes and patterns related to cultural norms, identity negotiation, and language vitality.
+
+A coding scheme will be developed based on the research questions and relevant literature. The coding scheme will include categories and subcategories that capture the different themes and patterns in the data. Multiple coders will be involved to ensure intercoder reliability and minimize bias.
+
+The textual data will be systematically analyzed, with each post or interaction being assigned relevant codes based on the coding scheme. The codes will then be grouped and organized into broader themes, allowing for the identification of patterns and trends in language use.
+
+6.3 Integration of Quantitative and Qualitative Findings
+
+The quantitative and qualitative findings will be integrated to provide a comprehensive understanding of the linguistic diversity on social media platforms and the factors that influence language use. The quantitative data will provide statistical trends and patterns, while the qualitative data will offer in-depth insights and context.
+
+The integration of the findings will involve comparing and contrasting the quantitative and qualitative results to identify any consistencies or discrepancies. The combined analysis will allow for a more nuanced understanding of language use on social media, considering both the quantitative prevalence of languages and the qualitative sociolinguistic dynamics.
+
+In conclusion, the data analysis process will employ both quantitative and qualitative techniques to examine the prevalence of different languages, language use patterns, and code-switching frequency. Thematic analysis of the qualitative data will explore sociolinguistic dynamics and language ideologies. The integration of the quantitative and qualitative findings will provide a comprehensive understanding of linguistic diversity on social media platforms. The next section will present the findings of this study.

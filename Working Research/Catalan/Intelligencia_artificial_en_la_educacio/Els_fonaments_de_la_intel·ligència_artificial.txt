@@ -1,0 +1,25 @@
+# Els fonaments de la intel·ligència artificial
+
+La intel·ligència artificial (IA) es basa en una sèrie de fonaments teòrics i pràctics que permeten als sistemes informàtics simular la intel·ligència humana. Aquesta disciplina combina coneixements i tècniques de diversos camps de la ciència i la informàtica, com ara la lògica, la matemàtica, la psicologia cognitiva, la filosofia de la ment i la neurociència.
+
+Els fonaments de la IA es poden dividir en diverses àrees clau:
+
+## Aprendre de les dades
+L'aprenentatge automàtic és una branca fonamental de la IA que permet als sistemes informàtics aprendre de les dades sense ser programats explícitament. A través de l'ús d'algoritmes d'aprenentatge automàtic, les màquines poden analitzar grans quantitats de dades i identificar patrons i tendències. Aquest aprenentatge pot ser supervisat, no supervisat o per reforç, depenent de la disponibilitat de dades etiquetades o no.
+
+## Raonament i resolució de problemes
+El raonament és una capacitat clau de la intel·ligència artificial. Els sistemes d'IA poden utilitzar tècniques de lògica formal per inferir conclusions a partir de premisses donades. A més, poden utilitzar algoritmes de cerca per trobar solucions òptimes o aproximades a problemes complexos.
+
+## Processament del llenguatge natural
+El processament del llenguatge natural és una àrea de la IA que es centra en la comprensió i generació de textos en llenguatge humà. Això implica l'ús de tècniques com ara l'anàlisi gramatical, la desambiguació semàntica i la generació de respostes automàtiques.
+
+## Visió per computador
+La visió per computador és una àrea de la IA que busca dotar les màquines de la capacitat de veure i entendre el món visual com ho fan els humans. Això implica l'extracció de característiques visuals, la detecció i el reconeixement d'objectes, la segmentació d'imatges i altres tasques relacionades.
+
+## Sistemes experts
+Els sistemes experts són sistemes d'IA que utilitzen coneixement expert per resoldre problemes específics. Aquests sistemes emmagatzemen el coneixement en forma de regles o bases de dades i utilitzen aquest coneixement per prendre decisions o oferir assessorament en un àmbit determinat.
+
+## Xarxes neuronals
+Les xarxes neuronals són models computacionals inspirats en el funcionament del cervell humà. Aquestes xarxes estan compostes per neurones artificials interconnectades i s'utilitzen per a tasques com el reconeixement de patrons, la classificació i la predicció.
+
+En resum, els fonaments de la intel·ligència artificial combinen coneixements de diferents àrees per aconseguir que les màquines puguin aprendre, raonar i prendre decisions de manera semblant a com ho fa la ment humana. A través de l'ús de tècniques com l'aprenentatge automàtic, el raonament, el processament del llenguatge natural, la visió per computador, els sistemes experts i les xarxes neuronals, es poden crear sistemes d'IA capaços de resoldre problemes complexos i millorar la nostra vida quotidiana en àmbits com l'educació, la salut, la logística i molts altres.

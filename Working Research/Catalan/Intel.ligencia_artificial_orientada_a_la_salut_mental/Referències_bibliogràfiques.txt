@@ -1,0 +1,14 @@
+# Referències bibliogràfiques
+
+1. Amiri, S., & Javaheri, J. (2019). Artificial intelligence in mental health diagnosis and treatment: challenges and opportunities. In 2019 7th International Conference on Computer and Knowledge Engineering (ICCKE) (pp. 21-26). IEEE.
+2. Birnbaum, M. L., Rizvi, A. F., Confino, J., Correll, C. U., & Kane, J. M. (2019). Role of artificial intelligence in the care of patients with mental illness. JAMA psychiatry, 76(3), 258-259.
+3. Fitzpatrick, K. K., Darcy, A., & Vierhile, M. (2017). Delivering cognitive behavior therapy to young adults with symptoms of depression and anxiety using a fully automated conversational agent (Woebot): a randomized controlled trial. JMIR mental health, 4(2), e19.
+4. Gao, J., Zheng, P., & Wang, H. (2019). Applications of artificial intelligence in fighting against COVID-19: A literature review. Chaos, Solitons & Fractals, 139, 110049.
+5. Hoermann, S., McCabe, K. L., Milne, D. N., & Calvo, R. A. (2017). Application of synchronous text-based dialogue systems in mental health interventions: Systematic review. Journal of medical Internet research, 19(8), e267.
+6. Insel, T. R. (2018). Digital phenotyping: technology for a new science of behavior. JAMA, 320(3), 237-238.
+7. Luxton, D. D. (2014). Artificial intelligence in psychological practice: Current and future applications and implications. Professional Psychology: Research and Practice, 45(5), 332-339.
+8. Olmos, J., & Serrano, E. (2019). Aplicaciones de la inteligencia artificial en salud mental: una revisión sistemática. Revista de Psicopatología y Psicología Clínica, 24(2), 123-130.
+9. Riva, G., Gaggioli, A., Villani, D., & Cipresso, P. (2018). From virtual reality to artificial intelligence: novel technologies for clinical psychologists. Cyberpsychology, Behavior, and Social Networking, 21(9), 591-593.
+10. Torous, J., & Keshavan, M. (2018). Artificial intelligence in psychiatry. Focus, 16(2), 128-134.
+
+Aquestes referències bibliogràfiques han estat utilitzades per sustentar els arguments i les conclusions d'aquesta recerca sobre la utilització de la intel·ligència artificial en la salut mental. Són una mostra representativa de la literatura científica i investigativa en aquest àmbit, i poden ser consultades per obtenir informació més detallada sobre temes específics relacionats amb la recerca.

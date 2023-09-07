@@ -1,0 +1,20 @@
+# Historia de la Inteligencia Artificial en Educación
+
+La aplicación de la Inteligencia Artificial (IA) en el ámbito educativo no es un fenómeno reciente. A lo largo de las últimas décadas, se han desarrollado diversos enfoques y sistemas que han buscado utilizar la IA para mejorar la enseñanza y el aprendizaje. A continuación, se presentará un recorrido por la historia de la IA en educación, destacando los hitos más relevantes y las contribuciones significativas.
+
+## Década de 1960
+Durante la década de 1960, surgieron los primeros intentos de utilizar la IA en la educación. Uno de los proyectos pioneros fue el programa denominado "Eliza", desarrollado por Joseph Weizenbaum en el Instituto Tecnológico de Massachusetts (MIT). Eliza fue un programa de simulación de conversaciones en lenguaje natural que se utilizó para enseñar conceptos básicos de psicología.
+
+## Década de 1970
+En la década de 1970, se produjo un avance significativo en el campo de la IA en educación con la creación de los primeros sistemas tutoriales inteligentes. Uno de los sistemas más destacados fue "Seymour Papert", desarrollado por Seymour Papert y su equipo en el MIT. Este sistema utilizaba el lenguaje de programación Logo y permitía a los estudiantes aprender matemáticas y resolver problemas utilizando un enfoque basado en la construcción de conocimiento.
+
+## Década de 1980
+En la década de 1980, se produjo un crecimiento significativo en la investigación y desarrollo de sistemas tutoriales inteligentes. Se utilizaron técnicas como el procesamiento del lenguaje natural, la representación del conocimiento y el aprendizaje automático para mejorar la capacidad de los sistemas para adaptarse a las necesidades y estilos de aprendizaje de los estudiantes. Se destacaron sistemas como "MYCIN" y "PROUST", que se enfocaban en enseñar diagnóstico médico y comprensión de textos, respectivamente.
+
+## Década de 1990
+En la década de 1990, se produjo un cambio de enfoque en la IA en educación. Se comenzó a explorar el potencial de las tecnologías de la información y la comunicación (TIC) en el ámbito educativo, lo que llevó al desarrollo de sistemas de aprendizaje en línea y entornos virtuales de aprendizaje. Estos sistemas permitían a los estudiantes acceder a recursos educativos en cualquier momento y lugar, así como interactuar con otros estudiantes y docentes a través de redes de comunicación.
+
+## Siglo XXI
+En el siglo XXI, la IA en educación ha experimentado avances significativos gracias al desarrollo de tecnologías como el aprendizaje automático y la minería de datos. Estas tecnologías permiten el análisis de grandes cantidades de datos, la personalización de la enseñanza y el aprendizaje, y la generación de retroalimentación precisa y oportuna. Además, se han desarrollado sistemas de tutoría virtual y asistentes virtuales que pueden guiar a los estudiantes en sus procesos de aprendizaje.
+
+En resumen, la historia de la IA en educación muestra cómo esta disciplina ha evolucionado a lo largo del tiempo, pasando de sistemas tutoriales simples a sistemas más complejos y adaptativos. A medida que la tecnología continúa avanzando, se espera que la IA en educación siga transformando la forma en que se enseña y se aprende, brindando nuevas oportunidades y mejorando la calidad de la educación.

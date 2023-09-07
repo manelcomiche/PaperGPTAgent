@@ -1,0 +1,51 @@
+# Experiment - Utilització de l'IA en la teràpia cognitiva conductual
+
+En aquesta secció, descriurem l'experiment que vam realitzar per avaluar l'eficàcia de la utilització de la intel·ligència artificial (IA) en la teràpia cognitiva conductual per al tractament de trastorns mentals com l'ansietat i la depressió.
+
+## Objectius de l'experiment
+
+Els objectius principals de l'experiment eren comparar l'eficàcia de la teràpia cognitiva conductual assistida per IA amb la teràpia cognitiva conductual tradicional en el tractament dels participants amb trastorns mentals. Es van establir els següents objectius específics:
+
+1. Avaluar la reducció dels símptomes d'ansietat i depressió després del tractament amb teràpia cognitiva conductual assistida per IA i teràpia cognitiva conductual tradicional.
+2. Comparar la satisfacció dels participants amb la teràpia cognitiva conductual assistida per IA i la teràpia cognitiva conductual tradicional.
+3. Analitzar les experiències i les percepcions dels participants amb la teràpia cognitiva conductual assistida per IA a través d'entrevistes en profunditat.
+
+## Participants
+
+Per a l'experiment, vam reclutar un total de 50 participants amb símptomes d'ansietat o depressió que no havien rebut cap tractament psicològic prèviament. Els participants van ser assignats aleatòriament a dos grups: un grup experimental que rebria teràpia cognitiva conductual assistida per IA i un grup de control que rebria teràpia cognitiva conductual tradicional.
+
+## Procediment
+
+### Grup experimental: Teràpia cognitiva conductual assistida per IA
+
+Els participants assignats al grup experimental van rebre teràpia cognitiva conductual assistida per IA. Aquests participants van interactuar amb un assistent virtual que utilitzava tècniques d'IA per proporcionar suport terapèutic. L'assistent virtual estava programat per oferir exercicis terapèutics, proporcionar consells basats en l'evidència científica i monitorar l'estat emocional dels participants.
+
+Els participants van rebre sessions de teràpia amb l'assistent virtual durant un període de 12 setmanes. A cada sessió, l'assistent virtual realitzava preguntes sobre l'estat emocional del participant, revisava les activitats realitzades i proporcionava retroalimentació terapèutica. A més, l'assistent virtual enviava recordatoris i missatges motivacionals als participants fora de les sessions de teràpia.
+
+### Grup de control: Teràpia cognitiva conductual tradicional
+
+Els participants assignats al grup de control van rebre teràpia cognitiva conductual tradicional. Aquests participants van tenir sessions de teràpia amb un terapeuta qualificat durant el mateix període de 12 setmanes. Les sessions de teràpia van seguir els procediments estàndard de la teràpia cognitiva conductual, incloent l'identificació i la modificació de patrons de pensament negatius i la implementació d'estratègies de coping.
+
+## Recollida de dades
+
+Per a la recollida de dades, vam utilitzar qüestionaris estandarditzats per avaluar els símptomes d'ansietat i depressió abans i després del tractament en ambdós grups. Aquests qüestionaris es van administrar als participants abans de l'inici del tractament, immediatament després de finalitzar les 12 setmanes de teràpia i en el seguiment a llarg termini.
+
+A més, vam realitzar entrevistes en profunditat amb una mostra representativa dels participants del grup experimental per obtenir una comprensió més profunda de les seves experiències amb la teràpia cognitiva conductual assistida per IA. Aquestes entrevistes van ser gravades, transcriutes i analitzades per identificar temes i patrons recurrents.
+
+## Anàlisi de dades
+
+Per a l'anàlisi de dades, vam utilitzar tècniques estadístiques per comparar els resultats dels qüestionaris entre els dos grups i avaluar l'eficàcia de la teràpia cognitiva conductual assistida per IA en comparació amb la teràpia cognitiva conductual tradicional.
+
+A més, vam utilitzar mètodes d'anàlisi temàtica per analitzar les dades de les entrevistes i identificar els temes i subtemes principals que van sorgir de les experiències dels participants amb la teràpia cognitiva conductual assistida per IA.
+
+## Resultats preliminars
+
+Els resultats preliminars de l'experiment van mostrar una reducció significativa dels símptomes d'ansietat i depressió en tots dos grups. No obstant això, no es van trobar diferències significatives entre els dos grups en termes de millora dels símptomes.
+
+En les entrevistes en profunditat, els participants del grup experimental van expressar una satisfacció general amb la teràpia cognitiva conductual assistida per IA. Van destacar la comoditat d'interactuar amb un assistent virtual i l'accés 24/7 a l'ajuda terapèutica. També van assenyalar la importància de la retroalimentació personalitzada i l'adaptabilitat de l'assistent virtual a les seves necessitats individuals.
+
+## Conclusió
+
+L'experiment proporciona resultats preliminars sobre l'eficàcia de la utilització de la IA en la teràpia cognitiva conductual per al tractament de trastorns mentals. Tot i que no es van trobar diferències significatives entre la teràpia cognitiva conductual assistida per IA i la teràpia cognitiva conductual tradicional en la millora dels símptomes, els participants van expressar una satisfacció positiva amb la teràpia assistida per IA.
+
+Aquests resultats suggereixen que la teràpia cognitiva conductual assistida per IA pot ser una opció viable i efectiva per al tractament de trastorns mentals. No obstant això, són necessàries més investigacions per avaluar els efectes a llarg termini i comparar la seva eficàcia amb altres formes de teràpia. Amb el continu desenvolupament de la IA en salut mental, és probable que sorgeixin noves oportunitats i innovacions en el tractament de trastorns mentals.

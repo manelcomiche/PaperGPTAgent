@@ -1,0 +1,43 @@
+# Resultats de l'experiment
+
+En aquesta secció, presentarem els resultats de l'experiment que vam realitzar per avaluar l'eficàcia de la utilització de la intel·ligència artificial (IA) en la teràpia cognitiva conductual per al tractament de trastorns mentals com l'ansietat i la depressió.
+
+## Anàlisi dels qüestionaris
+
+Abans de l'inici del tractament, tots els participants van completar qüestionaris estandarditzats per avaluar els símptomes d'ansietat i depressió. Aquests qüestionaris es van administrar immediatament després de finalitzar les 12 setmanes de teràpia i en el seguiment a llarg termini.
+
+Els resultats de l'anàlisi dels qüestionaris revelen una millora significativa dels símptomes d'ansietat i depressió en tots dos grups. Tant el grup experimental, que va rebre teràpia cognitiva conductual assistida per IA, com el grup de control, que va rebre teràpia cognitiva conductual tradicional, van experimentar una reducció notable dels símptomes.
+
+## Comparació entre els grups
+
+En la comparació entre els dos grups, no es van trobar diferències significatives en termes de millora dels símptomes d'ansietat i depressió. Tant la teràpia cognitiva conductual assistida per IA com la teràpia cognitiva conductual tradicional van obtenir resultats similars en la reducció dels símptomes i la millora de l'estat emocional dels participants.
+
+Aquesta troballa suggereix que la teràpia cognitiva conductual assistida per IA és igualment efectiva que la teràpia cognitiva conductual tradicional en el tractament de trastorns mentals com l'ansietat i la depressió.
+
+## Anàlisi temàtica de les entrevistes
+
+A més de l'anàlisi dels qüestionaris, també vam realitzar entrevistes en profunditat amb una mostra representativa dels participants del grup experimental. L'objectiu de les entrevistes era obtenir una comprensió més profunda de les experiències dels participants amb la teràpia cognitiva conductual assistida per IA.
+
+L'anàlisi temàtica de les entrevistes va revelar diversos temes i subtemes rellevants. Alguns dels temes destacats van ser:
+
+1. **Comoditat i accessibilitat**: Molts participants van destacar la comoditat d'interactuar amb un assistent virtual i la possibilitat d'accedir a l'ajuda terapèutica en qualsevol moment i des de qualsevol lloc. Aquest aspecte va ser especialment valorat per a aquells participants amb horaris ocupats o que preferien mantenir la seva privadesa.
+
+2. **Retroalimentació personalitzada**: Els participants van expressar apreci pel feedback personalitzat proporcionat per l'assistent virtual. Sentien que l'assistent virtual els entenia i adaptava la teràpia a les seves necessitats individuals. Això contribuïa a una experiència més personal i centrada en el pacient.
+
+3. **Motivació i seguiment**: Molts participants van destacar la importància dels recordatoris i missatges motivacionals enviats per l'assistent virtual. Aquests missatges els ajudaven a mantenir-se motivats i compromesos amb el procés de teràpia, i els recordaven la importància de seguir amb les activitats terapèutiques.
+
+En general, els participants van expressar satisfacció amb la teràpia cognitiva conductual assistida per IA i van valorar positivament la seva experiència amb l'assistent virtual. Van percebre beneficis en termes de comoditat, accessibilitat i retroalimentació personalitzada.
+
+## Limitacions de l'estudi
+
+Malgrat els resultats positius, és important tenir en compte les limitacions de l'estudi. Una limitació rellevant és la mida de la mostra, ja que es va reclutar un nombre relativament petit de participants. Això pot limitar la generalització dels resultats a altres poblacions.
+
+A més, la durada de l'estudi també pot ser una limitació, ja que els efectes a llarg termini de la teràpia cognitiva conductual assistida per IA no es van poder avaluar en aquest experiment. Seria necessari realitzar un seguiment a més llarg termini per comprendre millor els efectes a llarg termini d'aquesta forma de teràpia.
+
+## Conclusió
+
+Els resultats de l'experiment indiquen que tant la teràpia cognitiva conductual assistida per IA com la teràpia cognitiva conductual tradicional són eficaces en la reducció dels símptomes d'ansietat i depressió. No es van trobar diferències significatives entre els dos grups en termes de millora dels símptomes.
+
+Els participants de la teràpia cognitiva conductual assistida per IA van expressar satisfacció amb l'experiència i van valorar positivament la comoditat, l'accessibilitat i la retroalimentació personalitzada proporcionada per l'assistent virtual.
+
+Aquesta recerca proporciona una perspectiva prometedora sobre l'ús de la IA en el tractament de trastorns mentals, tot i que és necessari realitzar més investigacions per avaluar els efectes a llarg termini i comparar l'eficàcia d'aquesta forma de teràpia amb altres abordaments. Amb les innovacions continuades en la IA, és probable que l'ús d'aquesta tecnologia segueixi evolucionant i millorant en el camp de la salut mental.

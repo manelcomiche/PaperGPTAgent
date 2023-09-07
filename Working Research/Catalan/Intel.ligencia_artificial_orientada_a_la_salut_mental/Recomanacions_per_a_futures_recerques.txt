@@ -1,0 +1,17 @@
+# Recomanacions per a futures recerques
+
+Amb l'objectiu de continuar avançant en l'aplicació de la intel·ligència artificial en el camp de la salut mental, es presenten les següents recomanacions per a futures recerques:
+
+1. **Ampliar el rang de trastorns mentals investigats:** Si bé aquest estudi s'ha centrat en la teràpia cognitiva conductual i en alguns trastorns específics, com l'ansietat i la depressió, es recomana explorar l'ús de la intel·ligència artificial en altres trastorns mentals, com ara els trastorns de l'alimentació, els trastorns de l'estat d'ànim o els trastorns de la personalitat. Això permetrà obtenir una comprensió més completa de l'eficàcia de l'IA en diferents contextos i patologies.
+
+2. **Realitzar estudis longitudinals:** Per comprendre millor l'efectivitat de la intel·ligència artificial en el llarg termini, és recomanable realitzar estudis longitudinals que segueixin els pacients durant un període de temps més llarg. Això permetrà avaluar les millores a llarg termini i determinar si l'ús de l'IA en la salut mental pot tenir un impacte durador en el benestar dels pacients.
+
+3. **Explorar l'ús de l'IA en teràpies combinades:** En lloc de limitar-se a utilitzar la intel·ligència artificial com a única intervenció terapèutica, es recomana explorar l'ús de l'IA en combinació amb altres formes de teràpia, com ara la teràpia farmacològica o la teràpia grupal. Aquest enfocament multimodal pot oferir més opcions i beneficis als pacients, ja que alguns poden respondre millor a una combinació de diferents tractaments.
+
+4. **Desenvolupar tecnologies més interactives i personalitzades:** Una de les limitacions actuals de la intel·ligència artificial és la manca d'interactivitat i personalització. En futures recerques, es podria treballar en el desenvolupament de tecnologies més interactives i adaptades a les necessitats individuals dels pacients. Això pot incloure la utilització de veu i reconeixement facial per a una interacció més natural, així com l'adaptació dels tractaments en funció del perfil i les preferències de cada pacient.
+
+5. **Explorar l'ús de la intel·ligència artificial en prevenció i promoció de la salut mental:** Actualment, gran part de la recerca en salut mental es centra en el diagnòstic i el tractament de trastorns. No obstant això, és important explorar com la intel·ligència artificial pot ser utilitzada en la prevenció i promoció de la salut mental. Això pot incloure la detecció precoç de factors de risc, l'educació en salut mental i la millora de l'estil de vida per prevenir o reduir els trastorns mentals.
+
+6. **Aprofundir en l'ètica i la regulació de la intel·ligència artificial en salut mental:** Amb l'augment de l'ús de la intel·ligència artificial en la salut mental, és essencial abordar les qüestions ètiques i legals relacionades amb la seva aplicació. Les futures recerques podrien centrar-se en l'estudi de les implicacions ètiques de l'ús de l'IA en salut mental, així com en el desenvolupament de polítiques i regulacions que protegeixin els drets dels pacients i garanteixin la seguretat i la privacitat de les seves dades.
+
+En resum, aquestes recomanacions per a futures recerques busquen ampliar el coneixement i l'aplicació de la intel·ligència artificial en el camp de la salut mental. Amb una investigació més àmplia i aprofundida, es poden obtenir resultats més precisos i aplicables, així com millorar els serveis de salut mental i el benestar dels pacients.

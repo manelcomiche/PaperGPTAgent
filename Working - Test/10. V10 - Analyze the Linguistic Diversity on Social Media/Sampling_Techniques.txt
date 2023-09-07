@@ -1,0 +1,31 @@
+# Sampling Techniques
+
+Sampling techniques are employed to select a representative sample of users and languages from the collected data. This section describes the sampling techniques used in the analysis of linguistic diversity on social media platforms.
+
+## Random Sampling
+
+Random sampling is a technique used to select a subset of users and content from the collected data in a random manner. This approach helps avoid bias and ensures that all users have an equal chance of being included in the analysis. Random sampling provides a broad overview of linguistic diversity on social media platforms.
+
+To perform random sampling, the following steps are taken:
+
+1. **Definition of the Population**: The population is defined as the entire set of users or content available in the collected data from social media platforms.
+
+2. **Selection of the Sample Size**: The sample size is determined based on the research objectives, available resources, and statistical considerations. The aim is to select a sample that is large enough to provide meaningful insights while being manageable for analysis.
+
+3. **Random Selection Process**: A random selection process is employed to select users or content from the population. This can be done using random number generators or statistical software. Each user or content item in the population has an equal chance of being selected, ensuring a representative sample.
+
+Random sampling helps ensure that the selected sample is unbiased and reflects the diversity of users and content on social media platforms. It provides a foundation for analyzing the prevalence and distribution of different languages, as well as the linguistic practices exhibited by users.
+
+## Purposive Sampling
+
+Purposive sampling, also known as judgmental or selective sampling, is employed to specifically target certain languages, user groups, or linguistic phenomena of interest. This approach allows for an in-depth analysis of specific linguistic practices, patterns, or communities. Purposive sampling ensures that the study captures the nuances and complexities of linguistic diversity on social media.
+
+To perform purposive sampling, the following steps are taken:
+
+1. **Identification of Criteria**: Criteria are established to define the target languages, user groups, or linguistic phenomena of interest. These criteria may include language popularity, language diversity, user demographics, or specific linguistic features.
+
+2. **Selection Process**: Users or content items that meet the established criteria are selected for inclusion in the sample. This can be done through manual selection based on careful review and consideration of the collected data.
+
+Purposive sampling allows researchers to focus on specific aspects of linguistic diversity, providing detailed insights into particular languages or linguistic practices. It enables a deeper understanding of the cultural, social, and psychological implications of linguistic diversity on social media platforms.
+
+By employing a combination of random and purposive sampling techniques, this study aims to obtain a diverse and representative sample of users and languages from the collected data. The selected sample allows for a comprehensive analysis of linguistic diversity, providing insights into the prevalence, patterns, and implications of language use on social media platforms.

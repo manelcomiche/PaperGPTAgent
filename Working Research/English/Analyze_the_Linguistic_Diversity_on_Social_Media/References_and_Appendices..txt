@@ -1,0 +1,13 @@
+# References
+
+[Include a list of references cited in the research paper here, following the appropriate citation style.]
+
+# Appendices
+
+[Include any appendices that supplement the research paper, such as additional data, figures, tables, or transcripts. Label each appendix with a letter or number and provide a brief description of its content.]
+
+Appendix A: Survey Questionnaire<br>
+Appendix B: Interview Transcripts<br>
+Appendix C: Additional Data Analysis Results<br>
+
+**Note:** The content of the appendices will depend on the specific research conducted and the supplementary material provided.

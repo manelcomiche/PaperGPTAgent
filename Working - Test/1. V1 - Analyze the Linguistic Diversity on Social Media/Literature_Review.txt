@@ -1,0 +1,35 @@
+# Literature Review
+
+The linguistic diversity on social media has garnered significant attention from researchers in the fields of linguistics, sociolinguistics, communication studies, and digital humanities. This section presents a review of the existing literature on the topic, highlighting key studies and theoretical frameworks that have contributed to our understanding of language use and variation on social media platforms.
+
+## Language Use on Social Media
+
+Social media platforms have provided individuals with new spaces for communication, resulting in a diverse array of languages being used online. According to Danet and Herring (2007), the adoption of social media platforms has facilitated multilingual communication and the expression of multiple identities. Users have the freedom to switch between languages, code-switch, and utilize translanguaging practices to accommodate their linguistic needs and preferences.
+
+The study by Tagg and Seargeant (2014) examined language use on Facebook and highlighted the role of English as the lingua franca of the digital age. They found that English was the most widely used language on Facebook, serving as a means of communication between users from different linguistic backgrounds. However, they also noted the presence of other languages and the emergence of language clusters based on user demographics and geographic regions.
+
+## Language Preferences and Attitudes
+
+Research has also focused on understanding the language preferences of social media users. Zappavigna (2012) explored the language choices of Australian Twitter users and found that individuals often used a combination of English and local colloquialisms, creating a distinct hybrid language variety. This study highlighted the role of social media in the development of new linguistic practices and the negotiation of identity.
+
+Language attitudes on social media have also been examined. Androutsopoulos (2013) conducted a study on language ideologies and practices on YouTube, revealing the existence of language hierarchies and linguistic discrimination. Users expressed preferences for certain languages and criticized others, reflecting broader societal language ideologies. This study emphasized the need to consider the social and cultural context in understanding language use on social media.
+
+## Language Change and Evolution
+
+The influence of social media on language change and evolution has been a topic of interest for researchers. Gonçalves et al. (2011) analyzed the spread of new words and phrases on Twitter and found that social media platforms can act as catalysts for language innovation. They observed the rapid adoption and dissemination of neologisms and lexical innovations, indicating the dynamic nature of language on social media.
+
+The study by Eisenstein et al. (2014) focused on the impact of social media on linguistic variation. They analyzed Twitter data and found that certain linguistic features, such as the use of non-standard grammar and spelling, were more prevalent on social media compared to other communication channels. This study suggested that social media platforms can influence language norms and contribute to the diversification of linguistic practices.
+
+## Language Maintenance and Revitalization
+
+Social media platforms have also been instrumental in language maintenance and revitalization efforts. Hélot et al. (2013) explored the role of social media in the revitalization of regional and minority languages. They found that social media provided a platform for language communities to connect, share resources, and promote language use. This study highlighted the potential of social media in supporting language diversity and revitalization initiatives.
+
+## Theoretical Frameworks
+
+Several theoretical frameworks have been utilized to understand language use and variation on social media platforms. The concept of translingualism, as proposed by Canagarajah (2013), emphasizes the fluidity and hybridity of language practices on social media. Translingualism acknowledges the dynamic nature of language and the ability of users to navigate and transcend linguistic boundaries.
+
+The sociolinguistic concept of indexicality has also been applied to the study of language use on social media. Gershon (2010) argued that language use on social media platforms can function as indexical signs, conveying social meanings and identities. This framework offers insights into how language choices on social media are influenced by social and cultural factors.
+
+## Summary
+
+The literature reviewed in this section demonstrates the importance of analyzing the linguistic diversity on social media platforms. It highlights the role of social media in facilitating multilingual communication, the emergence of new linguistic practices, and the impact on language change and evolution. Furthermore, it underscores the need to consider language attitudes, language maintenance efforts, and theoretical frameworks to gain a comprehensive understanding of language use on social media.

@@ -1,0 +1,37 @@
+# Literature Review on Social Media Linguistics
+
+## 2.1 Introduction
+
+The field of social media linguistics has gained significant attention in recent years, as researchers seek to understand the linguistic practices and dynamics that occur on various social media platforms. This section provides a comprehensive review of the existing literature on social media linguistics, focusing on studies that have explored linguistic diversity, language variation, and language change in the context of social media.
+
+## 2.2 Linguistic Diversity on Social Media
+
+Linguistic diversity on social media is a prominent area of research. Studies have examined the use of different languages and language varieties on platforms such as Twitter, Facebook, and Instagram. For example, Zappavigna (2012) analyzed the linguistic landscape of Twitter and found a wide range of languages being used, with English being the dominant language but other languages, such as Spanish, Portuguese, and Arabic, also being prevalent.
+
+Furthermore, research has shown that social media platforms provide a space for individuals to express their linguistic identities and engage in code-switching or translanguaging practices. For instance, Androutsopoulos (2013) explored the use of Greeklish (Greek written in Latin characters) on Facebook and highlighted how this linguistic practice allows Greek speakers to navigate between Greek and English, reflecting their bilingual and bicultural identities.
+
+## 2.3 Language Variation on Social Media
+
+The analysis of language variation on social media has revealed interesting patterns and trends. Researchers have examined the use of dialects, accents, and non-standard language features in user-generated content. For example, Eisenstein et al. (2014) investigated the linguistic variation in tweets from different regions of the United States and found distinct dialectal features, such as the use of "y'all" in Southern dialects and "you guys" in Northern dialects.
+
+Moreover, studies have explored the role of social media in the emergence and spread of new linguistic features. For instance, Tagliamonte and Denis (2010) analyzed the use of "like" as a discourse marker on Facebook and found that it has evolved into a multifunctional word, serving various pragmatic functions beyond its traditional grammatical role. This highlights the influence of social media on language change and the creation of new linguistic norms.
+
+## 2.4 Language Change on Social Media
+
+Social media platforms have been recognized as catalysts for language change. Researchers have investigated the impact of social media on lexical innovation, grammatical changes, and the evolution of language norms. For example, Danet et al. (1997) examined the use of emoticons and abbreviations in online communication and argued that these linguistic features contribute to the development of a distinct online register.
+
+Furthermore, studies have explored the role of social media in language revitalization efforts. For instance, Blackwood (2016) investigated the use of social media by indigenous language speakers and found that it provides a platform for language revitalization, allowing speakers to connect, share resources, and promote their languages. This highlights the potential of social media in preserving and revitalizing endangered languages.
+
+## 2.5 Gaps and Future Directions
+
+While the existing literature on social media linguistics provides valuable insights, there are still several gaps and areas for future research. Firstly, there is a need for more cross-linguistic studies that examine linguistic diversity and language variation on social media platforms in different language communities.
+
+Secondly, further research is required to understand the sociolinguistic factors that influence linguistic practices on social media. Factors such as age, gender, and geographical location may shape individuals' language choices and patterns of language use on these platforms.
+
+Additionally, there is a need for more longitudinal studies that track language change and evolution on social media over time. This would allow researchers to observe the long-term impact of social media on language variation and change.
+
+Lastly, there is a need to explore the implications of linguistic diversity on social media for digital communication, online identity construction, and cross-cultural understanding. Understanding how linguistic diversity affects communication dynamics and interactions on social media can inform the development of strategies for inclusive and effective digital communication.
+
+## 2.6 Conclusion
+
+The literature on social media linguistics highlights the significance of linguistic diversity, language variation, and language change in the context of social media platforms. It underscores the dynamic nature of language use on these platforms and the potential impact on digital communication and language evolution. However, there are still gaps in our understanding, and further research is needed to explore these areas in more depth. The next section will outline the methodology for analyzing linguistic diversity on social media.

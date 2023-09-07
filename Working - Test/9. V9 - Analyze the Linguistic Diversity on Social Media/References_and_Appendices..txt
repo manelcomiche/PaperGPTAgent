@@ -1,0 +1,13 @@
+# References
+
+[Include a list of all the references cited in the research paper here.]
+
+1. Author A, Author B, Author C. (Year). Title of the paper. Journal Name, Volume(Issue), Page numbers.
+
+2. Author X, Author Y. (Year). Title of the book. Publisher.
+
+3. Author P, Author Q, Author R. (Year). Title of the article. Magazine Name, Month, Page numbers.
+
+# Appendices
+
+[Include any relevant appendices here, such as additional data tables, graphs, or supplementary information that supports the research findings but is not included in the main body of the paper.]

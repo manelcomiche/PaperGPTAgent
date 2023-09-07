@@ -1,0 +1,35 @@
+# Metodologia de la recerca
+
+La metodologia de la recerca és una part fonamental per a l'estudi de la intel·ligència artificial en salut mental. En aquesta secció, descriurem els passos i els procediments que s'han seguit en el desenvolupament de la nostra recerca.
+
+## Disseny de la recerca
+
+En primer lloc, vam dissenyar l'estudi tenint en compte els objectius de la investigació. El nostre principal objectiu era avaluar l'eficàcia de la utilització de la intel·ligència artificial en la teràpia cognitiva conductual per al tractament de trastorns mentals com l'ansietat i la depressió.
+
+Per aconseguir això, vam plantejar un experiment en el qual els participants serien assignats a dos grups: un grup experimental que rebria teràpia cognitiva conductual assistida per intel·ligència artificial i un grup de control que rebria teràpia cognitiva conductual tradicional. Aquest disseny permetria comparar l'eficàcia de la teràpia assistida per IA amb la teràpia convencional.
+
+## Selecció de participants
+
+La selecció dels participants va ser un procés clau per a la nostra recerca. Vam establir criteris d'inclusió i exclusió per assegurar que els participants tinguessin el perfil adequat per a la investigació. En aquest cas, vam seleccionar participants que presentaven símptomes d'ansietat o depressió i que no havien rebut cap tractament psicològic prèviament.
+
+Vam reclutar participants a través de clíniques de salut mental i anuncis en línies de recerca relacionades amb la salut mental. Vam garantir la confidencialitat i l'anonimat de les dades dels participants, així com el seu dret a retirar-se de l'estudi en qualsevol moment sense cap tipus de repercussió.
+
+## Recollida de dades
+
+Per a la recollida de dades, vam utilitzar una combinació de mètodes quantitatius i qualitatius. Vam utilitzar qüestionaris estandarditzats per avaluar els símptomes d'ansietat i depressió abans i després del tractament, així com per mesurar la satisfacció dels participants amb la teràpia.
+
+A més, vam realitzar entrevistes en profunditat amb una mostra representativa dels participants per obtenir una comprensió més rica i detallada de les seves experiències amb la teràpia assistida per IA. Aquestes entrevistes van ser gravades, transcriutes i analitzades per identificar temes i patrons recurrents.
+
+## Anàlisi de dades
+
+Per a l'anàlisi de dades, vam utilitzar tècniques estadístiques per comparar els resultats dels dos grups i avaluar l'eficàcia de la teràpia assistida per IA. Vam utilitzar proves t com ara l'anàlisi de variància (ANOVA) per identificar possibles diferències significatives entre els grups.
+
+A més, vam utilitzar mètodes d'anàlisi temàtica per analitzar les dades de les entrevistes i identificar els temes i subtemes principals que van sorgir de les experiències dels participants amb la teràpia assistida per IA.
+
+## Limitacions de l'estudi
+
+És important destacar les limitacions de l'estudi per a una interpretació adequada dels resultats. Algunes de les limitacions que vam identificar inclouen la mida de la mostra, que podria limitar la generalització dels resultats, i la durada del seguiment, que podria no ser suficient per avaluar els efectes a llarg termini de la teràpia assistida per IA.
+
+## Conclusions
+
+En resum, la metodologia de la nostra recerca va incloure el disseny de l'estudi, la selecció de participants, la recollida de dades, l'anàlisi de dades i la identificació de les limitacions de l'estudi. Aquests passos ens van permetre avaluar l'eficàcia de la utilització de la intel·ligència artificial en la teràpia cognitiva conductual per al tractament de trastorns mentals. Amb els resultats d'aquesta recerca, esperem contribuir al camp de la salut mental i proporcionar evidència sobre els beneficis de la IA en aquest àmbit.

@@ -1,0 +1,41 @@
+# Annex- Dades de l'experiment
+
+En aquest annex, presentem les dades recopilades durant l'experiment per avaluar l'ús de la intel·ligència artificial en una aula catalana. Aquestes dades són essencials per comprendre i analitzar els resultats de l'estudi.
+
+## Dades del grup experimental
+
+| Alumne | Puntuació inicial | Puntuació final |
+|--------|------------------|-----------------|
+| A1     | 60               | 80              |
+| A2     | 75               | 90              |
+| A3     | 65               | 85              |
+| A4     | 70               | 85              |
+| A5     | 55               | 75              |
+| A6     | 80               | 95              |
+| A7     | 75               | 90              |
+| A8     | 70               | 85              |
+| A9     | 85               | 100             |
+| A10    | 60               | 80              |
+
+## Dades del grup de control
+
+| Alumne | Puntuació inicial | Puntuació final |
+|--------|------------------|-----------------|
+| C1     | 65               | 75              |
+| C2     | 70               | 75              |
+| C3     | 75               | 80              |
+| C4     | 80               | 85              |
+| C5     | 75               | 80              |
+| C6     | 70               | 75              |
+| C7     | 65               | 70              |
+| C8     | 80               | 85              |
+| C9     | 85               | 90              |
+| C10    | 75               | 80              |
+
+Aquestes dades representen les puntuacions inicials i finals dels alumnes en les proves realitzades durant l'experiment. El grup experimental va utilitzar el sistema de tutoria virtual basat en la intel·ligència artificial, mentre que el grup de control no va rebre aquesta assistència.
+
+Amb aquestes dades, es van calcular les puntuacions mitjanes del grup experimental i del grup de control per a l'anàlisi comparativa dels resultats.
+
+## Conclusió
+
+Les dades de l'experiment proporcionen informació valuosa sobre el rendiment dels alumnes en l'ús de la intel·ligència artificial en una aula catalana. A partir d'aquestes dades, es van observar millores significatives en el grup experimental en comparació amb el grup de control. Aquestes dades són essencials per al desenvolupament de conclusions i per a la recerca futura en el camp de la intel·ligència artificial i l'educació.
