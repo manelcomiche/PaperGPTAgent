@@ -6,8 +6,6 @@ import inquirer from "inquirer";
 import chalkAnimation from "chalk-animation";
 import { createSpinner } from "nanospinner";
 
-import delay from "delay";
-
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -55,9 +53,10 @@ async function promptLanguage(message, defaultLanguage) {
 
 async function init() {
     const rainbowTitle = chalkAnimation.rainbow("Generador de Treballs de Recerca | v1.0.0");
-    await delay(1000);
-    rainbowTitle.stop();
-    return;
+
+    await new Promise(resolve => setTimeout(resolve, 1000));
+
+    rainbowTitle.stop(); return;
 }
 
 async function generateAll(title, language) {
@@ -95,7 +94,7 @@ async function generateAll(title, language) {
     sectionsSpinner.success({ text: `${sections.length} sections generated` });
 
     instructions.section = `Your task is to write a full research paper that MUST have at least 25000. The title of the research paper is ${title}. The paper language is ${language}. The user will tell you the section you need to write about. There are more sections than the ones you have written. This is the list of all the sections of the paper: ${sections.join(", ")}. YOU MUST JUST WRITE ABOUT THE SECTION THE USER TELLS YOU TO WRITE ABOUT. DO NOT INCLUDE A CONCLUSION OR INTRODUCTION ON EACH SECTION. USE MARKDOWN TO WRITE THE RESEARCH PAPER. YOU NEED TO WRITE COMPLETE SECTIONS WITH ALL THE INFORMATION REQUIRED. THE SECTION MUST HAVE AT LEAST 1500 WORDS. THE SECTION MUST BE WRITTEN ON ${language}.`;
-    await delay(2000);
+    await new Promise(resolve => setTimeout(resolve, 2000));
 
     for (let i = 0; i < sections.length; i++) {
         console.clear();
@@ -166,7 +165,7 @@ async function generateSection(section, route, route1, instructions, text, conte
     let res = "";
 
     const u = `The title of the section is ${section}.`;
-    
+
     await fetchEventSource(process.env.TURING_BASE_URL, {
         method: "POST",
         body: JSON.stringify({

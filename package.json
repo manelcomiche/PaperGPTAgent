@@ -11,8 +11,6 @@
   "dependencies": {
     "@waylaidwanderer/fetch-event-source": "^3.0.1",
     "chalk-animation": "^2.0.3",
-    "common-tags": "^1.8.2",
-    "delay": "^6.0.0",
     "dotenv": "^16.3.1",
     "fs": "^0.0.1-security",
     "inquirer": "^9.2.10",
