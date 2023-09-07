@@ -78,7 +78,7 @@ async function generateAll(title, language) {
 
     const context = [];
 
-    const spinner = createSpinner("Generating section titles...").start();
+    const sectionsSpinner = createSpinner("Generating section titles...").start();
 
     if (!fs.existsSync(folder)) { fs.mkdirSync(folder); }
 
@@ -94,32 +94,27 @@ async function generateAll(title, language) {
     sections = sections.map((s) => s.trim());
     sections = sections.map((s) => s.replaceAll(":", '-'));
 
-    spinner.success({ text: `${sections.length} sections generated` });
+    sectionsSpinner.success({ text: `${sections.length} sections generated` });
 
     instructions.section = `Your task is to write a full research paper that MUST have at least 25000. The title of the research paper is ${title}. The paper language is ${language}. The user will tell you the section you need to write about. There are more sections than the ones you have written. This is the list of all the sections of the paper: ${sections.join(", ")}. YOU MUST JUST WRITE ABOUT THE SECTION THE USER TELLS YOU TO WRITE ABOUT. DO NOT INCLUDE A CONCLUSION OR INTRODUCTION ON EACH SECTION. USE MARKDOWN TO WRITE THE RESEARCH PAPER. YOU NEED TO WRITE COMPLETE SECTIONS WITH ALL THE INFORMATION REQUIRED. THE SECTION MUST HAVE AT LEAST 1500 WORDS. THE SECTION MUST BE WRITTEN ON ${language}.`;
     await delay(2000);
 
-    if (!fs.existsSync(`${folder}/total.md`)) {
-        for (let i = 0; i < sections.length; i++) {
-            console.clear();
-            const spinner2 = createSpinner(`Generating section ${i + 1}/${sections.length} (${sections[i]})...`).start();
+    for (let i = 0; i < sections.length; i++) {
+        console.clear();
+        const generatingSpinner = createSpinner(`Generating section ${i + 1}/${sections.length} (${sections[i]})...`).start();
 
-            if (!fs.existsSync(`${folder}/${sections[i].replaceAll(" ", "_")}.txt`)) {
-                const sectionText = await generateSection(sections[i], `${folder}/${sections[i].replaceAll(" ", "_")}.txt`, `${folder}/total.md`, instructions, r.text, context);
+        if (!fs.existsSync(`${folder}/${sections[i].replaceAll(" ", "_")}.txt`)) {
+            const sectionText = await generateSection(sections[i], `${folder}/${sections[i].replaceAll(" ", "_")}.txt`, `${folder}/total.md`, instructions, r.text, context);
 
-                r.sections.push({
-                    title: sections[i],
-                    text: sectionText
-                });
+            r.sections.push({ title: sections[i], text: sectionText });
 
-                r.text += `\n## ${sections[i]} - manual divisor\n\n${sectionText}\n`;
+            r.text += `\n## ${sections[i]} - manual divisor\n\n${sectionText}\n`;
 
-                fs.writeFileSync(`${folder}/${sections[i].replaceAll(" ", "_")}.txt`, sectionText);
-                fs.writeFileSync(`${folder}/total.md`, r.text);
-            }
-
-            spinner2.success({ text: `Section ${i + 1}/${sections.length} (${sections[i]}) generated` });
+            fs.writeFileSync(`${folder}/${sections[i].replaceAll(" ", "_")}.txt`, sectionText);
+            fs.writeFileSync(`${folder}/total.md`, r.text);
         }
+
+        generatingSpinner.success({ text: `Section ${i + 1}/${sections.length} (${sections[i]}) generated` });
     }
     console.clear();
 }

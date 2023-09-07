@@ -1,0 +1,15 @@
+# Recomanacions per a futures investigacions
+
+Basant-nos en els resultats i les conclusions de la nostra investigació sobre la Intel·ligència Artificial (IA) en l'àmbit de l'educació, proposem les següents recomanacions per a futures investigacions:
+
+1. Investigar més a fons l'impacte de la IA en àrees específiques de l'educació: Encara que hem explorat els beneficis i les qüestions ètiques generals de la IA en l'educació, seria interessant realitzar estudis més detallats en àrees específiques com la matemàtica, la llengua o les ciències. Això permetria comprendre millor com la IA pot millorar l'aprenentatge i l'ensenyament en camps concrets.
+
+2. Investigar els efectes de la IA en els estudiants amb diferents nivells d'habilitats i necessitats: Seria interessant realitzar estudis per investigar com la IA pot beneficiar els estudiants amb habilitats avançades, així com aquells amb dificultats d'aprenentatge o necessitats especials. Aquesta investigació podria ajudar a identificar com la IA pot adaptar-se a les necessitats individuals dels estudiants i proporcionar suport personalitzat.
+
+3. Explorar l'ús d'agents de IA en l'educació: Un àrea prometedora per a futures investigacions és l'exploració de l'ús d'agents de IA, com ara assistents virtuals o robots, en l'educació. Aquests agents podrien interactuar amb els estudiants i proporcionar suport personalitzat de manera més directa i interactiva. Estudis sobre l'efectivitat d'aquests agents en l'aprenentatge podrien proporcionar una visió més profunda de com la IA pot millorar l'experiència educativa.
+
+4. Investigar la formació i el desenvolupament professional dels educadors en relació amb la IA: No només és important comprendre com la IA pot ser utilitzada en l'educació, sinó també com preparar i formar els educadors per utilitzar aquestes tecnologies de manera efectiva. Investigacions futures podrien examinar els programes de formació i desenvolupament professional per als educadors en relació amb la IA i avaluar la seva eficàcia.
+
+5. Examinar els efectes de la IA en el benestar emocional dels estudiants: Encara que la IA pot proporcionar suport i retroalimentació immediata, és important investigar els efectes d'aquesta interacció amb tecnologies en el benestar emocional dels estudiants. Estudis sobre el benestar emocional i la satisfacció dels estudiants en l'ús de la IA podrien ajudar a desenvolupar intervencions i estratègies per minimitzar els possibles efectes negatius.
+
+En conclusió, les futures investigacions en l'àmbit de la IA en l'educació haurien de centrar-se en àrees específiques de l'educació, investigar els efectes en estudiants amb diferents nivells de habilitats, explorar l'ús d'agents de IA en l'educació, investigar la formació i el desenvolupament professional dels educadors i examinar els efectes en el benestar emocional dels estudiants. Amb aquestes investigacions, es podria aprofundir en el coneixement i la comprensió de com la IA pot ser utilitzada de manera més efectiva i ètica en l'educació.

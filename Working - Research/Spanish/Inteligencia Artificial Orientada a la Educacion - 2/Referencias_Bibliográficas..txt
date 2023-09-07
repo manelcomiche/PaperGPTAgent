@@ -1,0 +1,23 @@
+# Referències Bibliogràfiques
+
+1. Aiken, R. M., & Putnam, R. T. (2020). Artificial Intelligence in Education: Promises and Implications for Teaching and Learning. *Educational Psychologist*, 55(4), 221-235.
+
+2. Baker, R. S., & Inventado, P. S. (2014). Educational data mining and learning analytics. *Handbook of Educational Data Mining*, 61-75.
+
+3. Choy, S. O., & Mostow, J. (2016). The promise of educational data mining for personalized learning. *Journal of Educational Data Mining*, 8(1), 1-16.
+
+4. Dillenbourg, P. (2018). Artificial intelligence for teaching. *International Journal of Artificial Intelligence in Education*, 28(4), 533-541.
+
+5. Holmes, B., Tangney, B., FitzGibbon, A., Savage, T., & Mehan, S. (2019). AI in education: Promises and challenges from a global perspective. *Frontiers in Education*, 4, 113.
+
+6. Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence Unleashed: An Argument for AI in Education. *Pearson.
+
+7. Ma, W., Adesope, O., Nesbit, J. C., & Liu, Q. (2014). Intelligent tutoring systems and learning outcomes: A meta-analysis. *Journal of Educational Psychology*, 106(4), 901-918.
+
+8. Spector, J. M., Merrill, M. D., Elen, J., & Bishop, M. J. (Eds.). (2014). *Handbook of research on educational communications and technology*. Springer.
+
+9. VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. *Educational Psychologist*, 46(4), 197-221.
+
+10. Woolf, B. P. (2010). Building intelligent interactive tutors: Student-centered strategies for revolutionizing e-learning. *Morgan Kaufmann Publishers*.
+
+Aquestes referències bibliogràfiques proporcionen una base sòlida per a l'estudi i la comprensió de la Intel·ligència Artificial en l'àmbit de l'educació. S'han seleccionat per representar una àmplia gamma de temes relacionats amb l'ús de la IA en l'educació, incloent beneficis, desafiaments ètics i tècnics, avaluació i personalització de l'aprenentatge. Aquests treballs han estat publicats en revistes i llibres reconeguts en l'àmbit de la tecnologia educativa i són referències valuoses per a futures investigacions en aquest camp.
