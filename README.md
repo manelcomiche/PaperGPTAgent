@@ -22,10 +22,10 @@ To run this application, make sure you have Node.js installed on your system. If
 
 ## 👥 Authors
 - Manel Comiche
-- Email: [manel@manel.engineer](mailto:manel@manel.engineer)
+    - Email: [manel@manel.engineer](mailto:manel@manel.engineer)
 
 - MrLOLDev
-- Email: [turing@turing.sh](mailto:turing@turing.sh)
+    - Email: [turing@turing.sh](mailto:turing@turing.sh)
 
 ## 📜 License
 This project is licensed under the Common Development and Distribution License 1.0 (CDDL-1.0) - see the [LICENSE](LICENSE)
