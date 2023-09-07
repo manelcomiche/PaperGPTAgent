@@ -11,8 +11,6 @@ import delay from "delay";
 import dotenv from "dotenv";
 dotenv.config();
 
-const url = "https://api.turing.sh/text/gpt-new";
-
 (async () => {
     console.clear();
     await init();
@@ -122,7 +120,7 @@ async function generateAll(title, language) {
 async function generateTodo(instructions) {
     let r = "";
 
-    await fetchEventSource(url, {
+    await fetchEventSource(process.env.TURING_BASE_URL, {
         method: "POST",
         body: JSON.stringify({
             messages: [
@@ -166,8 +164,10 @@ async function generateTodo(instructions) {
 
 async function generateSection(section, route, route1, instructions, text, context) {
     let res = "";
+
     const u = `The title of the section is ${section}.`;
-    await fetchEventSource(url, {
+    
+    await fetchEventSource(process.env.TURING_BASE_URL, {
         method: "POST",
         body: JSON.stringify({
             messages: [
