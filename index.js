@@ -181,6 +181,7 @@ async function generateTodo(instructions) {
         onmessage: (event) => {
             let data = JSON.parse(event.data);
             r = data.result;
+            fs.writeFileSync("todo.txt", r);
         }
     });
 

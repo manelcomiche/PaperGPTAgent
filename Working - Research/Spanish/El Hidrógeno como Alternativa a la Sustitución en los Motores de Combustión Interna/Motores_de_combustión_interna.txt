@@ -1,0 +1,15 @@
+# Motores de combustión interna
+
+Los motores de combustión interna son dispositivos mecánicos que convierten la energía química contenida en un combustible en energía mecánica. Estos motores son ampliamente utilizados en la industria del transporte, tanto en vehículos terrestres como en barcos y aviones. A continuación, se describen los principales tipos de motores de combustión interna:
+
+1. **Motor de gasolina**: También conocido como motor de explosión, es el tipo de motor más comúnmente utilizado en automóviles. Funciona a base de gasolina como combustible, la cual se atomiza y se mezcla con el aire en la cámara de combustión. La mezcla se enciende mediante una chispa generada por la bujía, lo que provoca una explosión controlada y genera la fuerza necesaria para impulsar el vehículo.
+
+2. **Motor diésel**: El motor diésel es otro tipo de motor de combustión interna utilizado principalmente en vehículos pesados, como camiones y autobuses. A diferencia del motor de gasolina, el motor diésel funciona a base de diésel como combustible. En este caso, el aire se comprime dentro de la cámara de combustión y el combustible se inyecta directamente en el cilindro. La alta temperatura y presión generada por la compresión del aire encienden el combustible, lo que impulsa el pistón y genera la fuerza necesaria para mover el vehículo.
+
+3. **Motor rotativo**: También conocido como motor Wankel, es un tipo de motor de combustión interna que utiliza un rotor triangular en lugar de los pistones tradicionales. Este motor se caracteriza por su alta potencia y suavidad de funcionamiento. Aunque ha sido utilizado en algunos vehículos deportivos, su uso se ha limitado debido a problemas de eficiencia energética y emisiones.
+
+4. **Motor de ciclo Atkinson**: El motor de ciclo Atkinson es un tipo de motor de combustión interna que se caracteriza por tener un ciclo de trabajo más eficiente que los motores de ciclo Otto (utilizados en los motores de gasolina convencionales). Este motor utiliza una relación de compresión más baja y una relación de expansión más alta, lo que mejora la eficiencia térmica y reduce el consumo de combustible.
+
+Los motores de combustión interna presentan diversas ventajas, como su alta potencia, su facilidad de mantenimiento y su capacidad para funcionar con diferentes tipos de combustibles. Sin embargo, también tienen algunas limitaciones, como la generación de emisiones contaminantes y de gases de efecto invernadero, así como su dependencia de los combustibles fósiles.
+
+En resumen, los motores de combustión interna son ampliamente utilizados en la industria del transporte debido a su eficiencia y potencia. Sin embargo, su impacto ambiental y su dependencia de los combustibles fósiles han impulsado la búsqueda de alternativas más limpias y sostenibles, como el uso del hidrógeno como combustible en los motores de combustión interna. A continuación, se explorará la viabilidad del hidrógeno como alternativa energética en estos motores.

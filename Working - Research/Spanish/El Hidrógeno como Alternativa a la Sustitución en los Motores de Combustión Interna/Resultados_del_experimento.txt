@@ -1,0 +1,17 @@
+# Resultados del experimento
+
+El experimento realizado para evaluar el uso del hidrógeno como combustible en motores de combustión interna arrojó resultados interesantes y reveladores. A continuación, se presentan los principales hallazgos obtenidos:
+
+1. **Rendimiento del motor**: Durante las pruebas comparativas, se observó que el motor funcionaba de manera efectiva tanto con hidrógeno como con gasolina. Ambos combustibles permitieron un funcionamiento adecuado y proporcionaron una potencia similar en el motor de combustión interna.
+
+2. **Consumo de combustible**: Se registró una diferencia significativa en el consumo de combustible entre el hidrógeno y la gasolina. El hidrógeno demostró un menor consumo en comparación con la gasolina, lo que indica una mayor eficiencia en términos de consumo de energía.
+
+3. **Emisiones contaminantes**: Uno de los resultados más destacables del experimento fue la reducción significativa de las emisiones contaminantes al utilizar hidrógeno como combustible. Durante la combustión del hidrógeno, no se produjeron emisiones de dióxido de carbono (CO2) ni de óxidos de nitrógeno (NOx), lo que representa una ventaja importante en términos de impacto ambiental.
+
+4. **Eficiencia energética**: Los cálculos de eficiencia energética revelaron que el hidrógeno superó a la gasolina en términos de eficiencia. El hidrógeno demostró una mayor capacidad para convertir la energía química en energía mecánica, lo que se tradujo en una mayor eficiencia energética global.
+
+5. **Potencial de mejora**: Durante el experimento, se identificaron áreas de mejora para el uso del hidrógeno como combustible. Se observó que se requerían ajustes adicionales en el sistema de inyección de combustible y en la relación aire-combustible para optimizar aún más el rendimiento del motor y la eficiencia del combustible.
+
+Estos resultados respaldan la viabilidad del hidrógeno como una alternativa energética en los motores de combustión interna. El hidrógeno demostró un rendimiento comparable al de la gasolina, pero con la ventaja de un menor consumo de combustible y la reducción significativa de las emisiones contaminantes. Estos hallazgos destacan el potencial del hidrógeno para contribuir a la mejora de la eficiencia energética y la protección del medio ambiente en el sector del transporte.
+
+Es importante tener en cuenta que estos resultados se obtuvieron en un contexto experimental controlado y que la implementación a gran escala del hidrógeno como combustible requerirá la superación de desafíos técnicos, económicos y de infraestructura. Sin embargo, los resultados del experimento proporcionan una base sólida para continuar investigando y desarrollando el uso del hidrógeno como una alternativa energética sostenible y limpia en los motores de combustión interna.

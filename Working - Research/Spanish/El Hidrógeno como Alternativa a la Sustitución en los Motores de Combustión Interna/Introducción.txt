@@ -1,0 +1,13 @@
+# Introducción
+
+En la actualidad, el uso de los motores de combustión interna en los vehículos es una de las principales fuentes de emisiones de gases de efecto invernadero y contaminantes atmosféricos. Estos motores funcionan a base de combustibles fósiles, como la gasolina y el diésel, los cuales contribuyen significativamente al calentamiento global y a la degradación de la calidad del aire.
+
+Ante esta problemática, surge la necesidad de buscar alternativas más limpias y sostenibles para propulsar los vehículos. Una de estas alternativas es el hidrógeno, un gas altamente energético que puede ser utilizado como combustible en los motores de combustión interna. El hidrógeno tiene la ventaja de ser un combustible altamente eficiente y no produce emisiones contaminantes, ya que su único subproducto es el agua.
+
+En este contexto, el presente trabajo tiene como objetivo analizar el uso del hidrógeno como alternativa a la sustitución en los motores de combustión interna. Se explorarán las propiedades del hidrógeno, así como sus ventajas y desafíos en comparación con los combustibles fósiles. También se examinará el impacto medioambiental y los beneficios económicos que conlleva su implementación.
+
+Para comprender mejor el papel del hidrógeno como alternativa energética, se llevará a cabo un experimento donde se evaluará el uso del hidrógeno en motores de combustión interna. Se analizarán los resultados obtenidos y se discutirán las implicaciones de estos hallazgos.
+
+Finalmente, se presentarán las conclusiones y se señalarán las áreas que requieren futuras investigaciones y desarrollos en relación con el uso del hidrógeno como alternativa energética en los motores de combustión interna.
+
+En resumen, este trabajo busca proporcionar una visión general sobre el hidrógeno como alternativa a la sustitución en los motores de combustión interna, destacando sus beneficios medioambientales y económicos, así como los desafíos y limitaciones que enfrenta su implementación. A través del análisis de los resultados del experimento, se espera contribuir al conocimiento y la comprensión de esta alternativa energética prometedora.
