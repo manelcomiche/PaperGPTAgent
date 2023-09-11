@@ -6,6 +6,9 @@ import inquirer from "inquirer";
 import chalkAnimation from "chalk-animation";
 import { createSpinner } from "nanospinner";
 
+import { exec } from "child_process";
+import markdownToc from "markdown-toc";
+
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -113,7 +116,31 @@ async function generateAll(title, language) {
 
         generatingSpinner.success({ text: `Section ${i + 1}/${sections.length} (${sections[i]}) generated` });
     }
+
     console.clear();
+
+    const finalSpinner = createSpinner("Generating final PDF document...").start();
+    const pdfFileName = `${folder}/total.pdf`;
+
+    if (!fs.existsSync(pdfFileName)) {
+        fs.readFile(`${folder}/total.md`, "utf-8", (readError, data) => {
+            if (readError) { finalSpinner.error({ text: "Error generating final PDF document" }); return; }
+
+            const cleanedData = data.replace(/^##.*- manual divisor.*$/gm, "");
+
+            const tocContent = markdownToc(cleanedData, { depth: 3 }).content;
+            const markdownWithToc = `${tocContent}\n${cleanedData}`;
+    
+            fs.writeFile(`${folder}/total.md`, markdownWithToc, (writeError) => {
+                if (writeError) { finalSpinner.error({ text: "Error generating final PDF document" }); return; }
+
+                exec(`markdown-pdf "${folder}/total.md" -o "${pdfFileName}" --css-path "./assets/pdf.css"`, (pdfError, stdout, stderr) => {
+                    if (pdfError) { finalSpinner.error({ text: "Error generating final PDF document" }); return; }
+                    else { finalSpinner.success({ text: "Final PDF document generated" }); return; }
+                });
+            });
+        });
+    } else { finalSpinner.success({ text: "Final PDF document generated" }); }
 }
 
 async function generateTodo(instructions) {
@@ -154,7 +181,6 @@ async function generateTodo(instructions) {
         onmessage: (event) => {
             let data = JSON.parse(event.data);
             r = data.result;
-            fs.writeFileSync("todo.txt", r);
         }
     });
 
@@ -206,6 +232,7 @@ async function generateSection(section, route, route1, instructions, text, conte
         onmessage: (event) => {
             let data = JSON.parse(event.data);
             res = data.result;
+
             fs.writeFileSync(route, res);
             fs.writeFileSync(route1, `${text}\n\n## ${section}  - manual divisor\n\n${res}\n`);
         }

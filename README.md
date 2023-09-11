@@ -27,6 +27,9 @@ To run this application, make sure you have Node.js installed on your system. If
 - MrLOLDev
     - Email: [turing@turing.sh](mailto:turing@turing.sh)
 
+## 🤖 Turing.sh
+    Thanks to Turing.sh for providing the capabilities to carry out this research work, offering their API and collaboration.
+
 ## 📜 License
 This project is licensed under the Common Development and Distribution License 1.0 (CDDL-1.0) - see the [LICENSE](LICENSE)
 
