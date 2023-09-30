@@ -1,4 +1,4 @@
-# 📚 Research Paper Generator App
+# 📚 PaperGPTAgent - Research Paper Generator App
 
 This is a simple JavaScript application for generating research papers. You can use it to quickly create academic papers with ease. 📝✨
 
