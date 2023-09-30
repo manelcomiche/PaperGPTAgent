@@ -2,6 +2,9 @@
 
 This is a simple JavaScript application for generating research papers. You can use it to quickly create academic papers with ease. 📝✨
 
+## 🎥 Demo
+You can see a demo available on [Youtube]([https://nodejs.org/](https://youtu.be/nLFAZhXpflQ))
+
 ## 🚀 How to Run
 
 To run this application, make sure you have Node.js installed on your system. If you don't have it installed, you can download it from [nodejs.org](https://nodejs.org/). 📦
@@ -22,13 +25,13 @@ To run this application, make sure you have Node.js installed on your system. If
 
 ## 👥 Authors
 - Manel Comiche
-    - Email: [manel@manel.engineer](mailto:manel@manel.engineer)
+    - Email: [manel@manel.engineer](mailto:hey@manel.engineer)
 
 - MrLOLDev
     - Email: [turing@turing.sh](mailto:turing@turing.sh)
 
 ## 🤖 Turing.sh
-    Thanks to Turing.sh for providing the capabilities to carry out this research work, offering their API and collaboration.
+Thanks to Turing.sh for providing the capabilities to carry out this research work, offering their API and collaboration.
 
 ## 📜 License
 This project is licensed under the Common Development and Distribution License 1.0 (CDDL-1.0) - see the [LICENSE](LICENSE)
