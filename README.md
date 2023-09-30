@@ -3,7 +3,7 @@
 This is a simple JavaScript application for generating research papers. You can use it to quickly create academic papers with ease. 📝✨
 
 ## 🎥 Demo
-You can see a demo available on [Youtube]([https://nodejs.org/](https://youtu.be/nLFAZhXpflQ))
+You can see a demo available on [Youtube](https://youtu.be/nLFAZhXpflQ)
 
 ## 🚀 How to Run
 
