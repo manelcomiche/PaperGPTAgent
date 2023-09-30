@@ -3,7 +3,10 @@
 This is a simple JavaScript application for generating research papers. You can use it to quickly create academic papers with ease. 📝✨
 
 ## 🎥 Demo
-You can see a demo available on [Youtube](https://youtu.be/nLFAZhXpflQ)
+You can see a demo available on [Youtube](https://youtu.be/nLFAZhXpflQ/)
+<br>
+<br>
+<a title="PaperGPTAgent" href="https://youtu.be/nLFAZhXpflQ/"><img src="https://i9.ytimg.com/vi_webp/nLFAZhXpflQ/mqdefault.webp?v=6518551e&sqp=CLyq4agG&rs=AOn4CLDUUzxJAm989xArylpJryD1MQzpJA" alt="PaperGPTAgent"/></a>
 
 ## 🚀 How to Run
 
