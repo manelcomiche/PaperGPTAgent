@@ -30,7 +30,7 @@ To run this application, make sure you have Node.js installed on your system. If
 - Manel Comiche
     - Email: [manel@manel.engineer](mailto:hey@manel.engineer)
 
-- MrLOLDev
+- Leo - turing.sh
     - Email: [turing@turing.sh](mailto:turing@turing.sh)
 
 ## 🤖 Turing.sh
