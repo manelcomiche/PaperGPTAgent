@@ -6,7 +6,7 @@ This is a simple JavaScript application for generating research papers. You can 
 You can see a demo available on [Youtube](https://www.youtube.com/watch?v=K--Hce9_fts)
 <br>
 <br>
-<a title="PaperGPTAgent" href="https://youtu.be/nLFAZhXpflQ/"><img src="https://i9.ytimg.com/vi_webp/K--Hce9_fts/mqdefault.webp?v=651884f7&sqp=CLyY56gG&rs=AOn4CLAMceVRimLQ0qwrMl7ApZQgOYC5pA" alt="PaperGPTAgent"/></a>
+<a title="PaperGPTAgent" href="https://youtu.be/nLFAZhXpflQ/"><img src="https://i.imgur.com/X5ZBFCx.png" alt="PaperGPTAgent"/></a>
 
 ## 🚀 How to Run
 
