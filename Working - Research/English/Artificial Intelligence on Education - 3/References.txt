@@ -1,0 +1,17 @@
+# References
+
+[Include a list of references cited in the research paper here.]
+
+1. Author, A. (Year). Title of the article. Journal Name, Volume(Issue), Page numbers. DOI or URL
+
+2. Author, B. (Year). Title of the book. Publisher.
+
+3. Author, C., & Author, D. (Year). Title of the chapter. In E. Editor (Ed.), Book Title (pp. xx-xx). Publisher.
+
+4. Author, E. (Year). Title of the conference paper. In Proceedings of the Conference Name (pp. xx-xx). DOI or URL
+
+5. Author, F. (Year). Title of the report. Organization Name. Retrieved from URL
+
+6. Author, G. (Year). Title of the website article/page/document. Website Name. Retrieved from URL
+
+Note: Ensure that the references are formatted according to the required citation style (e.g., APA, MLA, Chicago).
