@@ -33,9 +33,9 @@ const url = "https://api.turing.sh/text/gpt-new";
                 "English",
                 "Spanish (Español)",
                 "French (Français)",
-                "Catallan (Català)",
+                "Catalá (Català)",
             ],
-            default: "Catallan (Català)"
+            default: "Catalá (Català)"
 
         }
     ]);

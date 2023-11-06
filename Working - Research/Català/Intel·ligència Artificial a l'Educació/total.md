@@ -1,4 +1,94 @@
-## Introducció a la intel·ligència artificial - manual divisor
+- [Introducció a la intel·ligència artificial](#introduccio-a-la-intel%C2%B7ligencia-artificial)
+- [Els fonaments de la intel·ligència artificial](#els-fonaments-de-la-intel%C2%B7ligencia-artificial)
+  * [Aprendre de les dades](#aprendre-de-les-dades)
+  * [Raonament i resolució de problemes](#raonament-i-resolucio-de-problemes)
+  * [Processament del llenguatge natural](#processament-del-llenguatge-natural)
+  * [Visió per computador](#visio-per-computador)
+  * [Sistemes experts](#sistemes-experts)
+  * [Xarxes neuronals](#xarxes-neuronals)
+- [La intel·ligència artificial en l'educació: una visió general](#la-intel%C2%B7ligencia-artificial-en-leducacio-una-visio-general)
+  * [Sistemes d'aprenentatge personalitzats](#sistemes-daprenentatge-personalitzats)
+  * [Tutoria intel·ligent](#tutoria-intel%C2%B7ligent)
+  * [Correcció automàtica i generació de contingut](#correccio-automatica-i-generacio-de-contingut)
+  * [Anàlisi de dades i seguiment del progrés](#analisi-de-dades-i-seguiment-del-progres)
+  * [Simulacions i entorns d'aprenentatge virtuals](#simulacions-i-entorns-daprenentatge-virtuals)
+  * [Desenvolupament de competències del segle XXI](#desenvolupament-de-competencies-del-segle-xxi)
+- [Aplicacions de la intel·ligència artificial en l'educació](#aplicacions-de-la-intel%C2%B7ligencia-artificial-en-leducacio)
+  * [1. Sistemes d'aprenentatge personalitzats](#1-sistemes-daprenentatge-personalitzats)
+  * [2. Tutoria intel·ligent](#2-tutoria-intel%C2%B7ligent)
+  * [3. Generació automàtica de contingut](#3-generacio-automatica-de-contingut)
+  * [4. Anàlisi de dades i seguiment del progrés](#4-analisi-de-dades-i-seguiment-del-progres)
+  * [5. Simulacions i entorns d'aprenentatge virtuals](#5-simulacions-i-entorns-daprenentatge-virtuals)
+  * [6. Assistents virtuals i chatbots](#6-assistents-virtuals-i-chatbots)
+- [Avantatges de la intel·ligència artificial en l'educació](#avantatges-de-la-intel%C2%B7ligencia-artificial-en-leducacio)
+  * [1. Personalització de l'aprenentatge](#1-personalitzacio-de-laprenentatge)
+  * [2. Retroalimentació immediata i personalitzada](#2-retroalimentacio-immediata-i-personalitzada)
+  * [3. Accés a recursos educatius avançats](#3-acces-a-recursos-educatius-avancats)
+  * [4. Millora de l'avaluació i el seguiment del progrés](#4-millora-de-lavaluacio-i-el-seguiment-del-progres)
+  * [5. Foment de la col·laboració i l'aprenentatge cooperatiu](#5-foment-de-la-col%C2%B7laboracio-i-laprenentatge-cooperatiu)
+  * [6. Optimització de la gestió educativa](#6-optimitzacio-de-la-gestio-educativa)
+- [Desafiaments de la intel·ligència artificial en l'educació](#desafiaments-de-la-intel%C2%B7ligencia-artificial-en-leducacio)
+  * [1. Falta de dades i qualitat de les dades](#1-falta-de-dades-i-qualitat-de-les-dades)
+  * [2. Biaixos i discriminació](#2-biaixos-i-discriminacio)
+  * [3. Manca de comprensió i transparència](#3-manca-de-comprensio-i-transparencia)
+  * [4. Desigualtat d'accés a la tecnologia](#4-desigualtat-dacces-a-la-tecnologia)
+  * [5. Dependència excessiva de la tecnologia](#5-dependencia-excessiva-de-la-tecnologia)
+  * [6. Impacte en el rol del professor](#6-impacte-en-el-rol-del-professor)
+- [Estudi de cas: intel·ligència artificial en una aula catalana](#estudi-de-cas-intel%C2%B7ligencia-artificial-en-una-aula-catalana)
+  * [Context de l'estudi](#context-de-lestudi)
+  * [Metodologia de l'estudi](#metodologia-de-lestudi)
+  * [Resultats de l'estudi](#resultats-de-lestudi)
+    + [1. Personalització de l'aprenentatge](#1-personalitzacio-de-laprenentatge-1)
+    + [2. Retroalimentació immediata i orientació](#2-retroalimentacio-immediata-i-orientacio)
+    + [3. Millora de l'avaluació](#3-millora-de-lavaluacio)
+    + [4. Col·laboració i interacció](#4-col%C2%B7laboracio-i-interaccio)
+  * [Discussió dels resultats](#discussio-dels-resultats)
+  * [Implicacions per a la pràctica educativa](#implicacions-per-a-la-practica-educativa)
+- [Metodologia de la recerca](#metodologia-de-la-recerca)
+  * [Disseny de la recerca](#disseny-de-la-recerca)
+  * [Recopilació de dades](#recopilacio-de-dades)
+  * [Anàlisi de dades](#analisi-de-dades)
+  * [Validesa i fiabilitat](#validesa-i-fiabilitat)
+  * [Limitacions de la recerca](#limitacions-de-la-recerca)
+  * [Ètica de la recerca](#etica-de-la-recerca)
+- [Anàlisi de dades](#analisi-de-dades-1)
+  * [Observacions de classe](#observacions-de-classe)
+  * [Entrevistes amb professors](#entrevistes-amb-professors)
+  * [Enquestes als estudiants](#enquestes-als-estudiants)
+  * [Resultats de l'anàlisi de dades](#resultats-de-lanalisi-de-dades)
+- [Resultats de l'experiment](#resultats-de-lexperiment)
+  * [Metodologia de l'experiment](#metodologia-de-lexperiment)
+  * [Resultats quantitatius](#resultats-quantitatius)
+  * [Resultats qualitatius](#resultats-qualitatius)
+  * [Resultats principals](#resultats-principals)
+  * [Discussió dels resultats](#discussio-dels-resultats-1)
+  * [Limitacions de l'estudi](#limitacions-de-lestudi)
+  * [Implicacions per a la pràctica educativa](#implicacions-per-a-la-practica-educativa-1)
+- [Discussió dels resultats](#discussio-dels-resultats-2)
+  * [Anàlisi de les dades](#analisi-de-les-dades)
+  * [Discussió dels resultats](#discussio-dels-resultats-3)
+  * [Implicacions per a la pràctica educativa](#implicacions-per-a-la-practica-educativa-2)
+  * [Futura recerca en intel·ligència artificial i educació](#futura-recerca-en-intel%C2%B7ligencia-artificial-i-educacio)
+  * [Conclusions](#conclusions)
+- [Implicacions per a la pràctica educativa](#implicacions-per-a-la-practica-educativa-3)
+  * [Personalització de l'aprenentatge](#personalitzacio-de-laprenentatge)
+  * [Retroalimentació immediata i millora contínua](#retroalimentacio-immediata-i-millora-continua)
+  * [Foment de la col·laboració i l'aprenentatge entre iguals](#foment-de-la-col%C2%B7laboracio-i-laprenentatge-entre-iguals)
+  * [Accés a l'educació de qualitat](#acces-a-leducacio-de-qualitat)
+  * [Conclusió](#conclusio)
+- [Futura recerca en intel·ligència artificial i educació](#futura-recerca-en-intel%C2%B7ligencia-artificial-i-educacio-1)
+  * [Desenvolupament de sistemes de tutoria virtual més avançats](#desenvolupament-de-sistemes-de-tutoria-virtual-mes-avancats)
+  * [Investigació sobre l'impacte de la intel·ligència artificial en diferents matèries i nivells educatius](#investigacio-sobre-limpacte-de-la-intel%C2%B7ligencia-artificial-en-diferents-materies-i-nivells-educatius)
+  * [Estudi de l'eficàcia de la intel·ligència artificial en diferents entorns educatius](#estudi-de-leficacia-de-la-intel%C2%B7ligencia-artificial-en-diferents-entorns-educatius)
+  * [Investigació sobre els desafiaments i implicacions ètiques de la utilització de la intel·ligència artificial en l'educació](#investigacio-sobre-els-desafiaments-i-implicacions-etiques-de-la-utilitzacio-de-la-intel%C2%B7ligencia-artificial-en-leducacio)
+  * [Conclusió](#conclusio-1)
+- [Conclusions](#conclusions-1)
+- [Referències](#referencies)
+- [Annex- Dades de l'experiment](#annex--dades-de-lexperiment)
+  * [Dades del grup experimental](#dades-del-grup-experimental)
+  * [Dades del grup de control](#dades-del-grup-de-control)
+  * [Conclusió](#conclusio-2)
+
 
 # Introducció a la intel·ligència artificial
 
@@ -18,7 +108,7 @@ Tot i els beneficis potencials de la IA en l'educació, també hi ha desafiament
 
 En resum, la intel·ligència artificial té un gran potencial per transformar l'educació. Amb l'ús adequat de la IA, es poden crear entorns d'aprenentatge més personalitzats i eficients, que ajudin els estudiants a assolir millors resultats acadèmics i adquirir les habilitats necessàries per afrontar els reptes del segle XXI.
 
-## Els fonaments de la intel·ligència artificial - manual divisor
+
 
 # Els fonaments de la intel·ligència artificial
 
@@ -52,7 +142,7 @@ Les xarxes neuronals són models computacionals inspirats en el funcionament del
 
 En resum, els fonaments de la intel·ligència artificial combinen coneixements de diferents àrees per aconseguir que les màquines puguin aprendre, raonar i prendre decisions de manera semblant a com ho fa la ment humana. A través de l'ús de tècniques com l'aprenentatge automàtic, el raonament, el processament del llenguatge natural, la visió per computador, els sistemes experts i les xarxes neuronals, es poden crear sistemes d'IA capaços de resoldre problemes complexos i millorar la nostra vida quotidiana en àmbits com l'educació, la salut, la logística i molts altres.
 
-## La intel·ligència artificial en l'educació- una visió general - manual divisor
+
 
 # La intel·ligència artificial en l'educació: una visió general
 
@@ -84,7 +174,7 @@ La IA pot ajudar a desenvolupar les competències del segle XXI, com ara la crea
 
 En resum, la integració de la intel·ligència artificial en l'educació ofereix un gran potencial per millorar l'aprenentatge dels estudiants i ajudar els professors a adaptar-se a les necessitats individuals dels alumnes. Amb l'ús de sistemes d'aprenentatge personalitzats, tutoria intel·ligent, correcció automàtica i generació de contingut, anàlisi de dades i seguiment del progrés, simulacions i entorns d'aprenentatge virtuals i desenvolupament de competències del segle XXI, la IA pot transformar la manera en què s'ensenyen i s'aprenen les habilitats i coneixements necessaris per afrontar els reptes del futur.
 
-## Aplicacions de la intel·ligència artificial en l'educació - manual divisor
+
 
 # Aplicacions de la intel·ligència artificial en l'educació
 
@@ -116,7 +206,7 @@ Els assistents virtuals i els chatbots són altres aplicacions de la IA en l'edu
 
 En resum, la IA té un gran potencial per millorar l'educació a través de diverses aplicacions. Des dels sistemes d'aprenentatge personalitzats i la tutoria intel·ligent fins a la generació automàtica de contingut, l'anàlisi de dades i el seguiment del progrés, les simulacions i els entorns d'aprenentatge virtuals i els assistents virtuals i chatbots, la IA pot proporcionar un suport eficaç i personalitzat per millorar l'aprenentatge dels estudiants i optimitzar l'experiència educativa en general.
 
-## Avantatges de la intel·ligència artificial en l'educació - manual divisor
+
 
 # Avantatges de la intel·ligència artificial en l'educació
 
@@ -148,7 +238,7 @@ La IA també pot optimitzar la gestió educativa en les institucions escolars i 
 
 En resum, la integració de la intel·ligència artificial en l'educació ofereix una sèrie d'avantatges significatius, com ara l'aprenentatge personalitzat, la retroalimentació immediata i personalitzada, l'accés a recursos educatius avançats, la millora de l'avaluació i el seguiment del progrés, el foment de la col·laboració i l'aprenentatge cooperatiu i l'optimització de la gestió educativa. Amb aquests avantatges, la IA té el potencial de millorar l'aprenentatge dels estudiants i transformar l'experiència educativa en una més personalitzada, eficient i enriquidora.
 
-## Desafiaments de la intel·ligència artificial en l'educació - manual divisor
+
 
 # Desafiaments de la intel·ligència artificial en l'educació
 
@@ -180,7 +270,7 @@ L'ús de la IA en l'educació pot generar inquietud sobre el futur del rol del p
 
 En resum, l'ús de la intel·ligència artificial en l'educació presenta alguns desafiaments importants que cal abordar per garantir un ús ètic i eficaç de la tecnologia. Cal treballar per superar la falta de dades i la qualitat de les dades, abordar els biaixos i la discriminació, millorar la comprensió i la transparència, reduir la desigualtat d'accés a la tecnologia, evitar una dependència excessiva de la tecnologia i trobar la manera d'integrar la IA en el rol del professor d'una manera significativa. Amb una abordatge adequat, la IA pot ser una eina poderosa per millorar l'aprenentatge dels estudiants i enriquir l'experiència educativa.
 
-## Estudi de cas- intel·ligència artificial en una aula catalana - manual divisor
+
 
 # Estudi de cas: intel·ligència artificial en una aula catalana
 
@@ -226,7 +316,7 @@ Aquest estudi de cas destaca la importància de considerar la utilització de la
 
 Els educadors poden considerar la utilització de sistemes d'aprenentatge personalitzats, la incorporació de retroalimentació immediata, l'anàlisi de dades per a una millor avaluació dels estudiants i la promoció de la col·laboració i la interacció entre els estudiants. Tanmateix, és important abordar els desafiaments associats amb l'ús de la IA, com ara la falta de dades i el biaix potencial, per garantir que l'ús de la IA en l'educació sigui ètic, just i beneficiós per a tots els estudiants.
 
-## Metodologia de la recerca - manual divisor
+
 
 # Metodologia de la recerca
 
@@ -258,7 +348,7 @@ Finalment, cal destacar que es van complir els principis ètics en la realitzaci
 
 En resum, la metodologia de recerca utilitzada per investigar la integració de la IA en l'educació va incloure el disseny de la recerca, la recopilació de dades mitjançant diverses tècniques, l'anàlisi de dades per obtenir resultats significatius i la consideració de la validesa, la fiabilitat i els principis ètics. Aquesta metodologia va permetre obtenir informació rellevant sobre l'impacte de la IA en l'educació i els aspectes relacionats.
 
-## Anàlisi de dades - manual divisor
+
 
 # Anàlisi de dades
 
@@ -290,7 +380,7 @@ A través de l'anàlisi de dades, es va obtenir una comprensió més completa de
 
 En resum, l'anàlisi de dades ha permès identificar temes i patrons rellevants sobre l'impacte de la IA en l'educació. A partir de les observacions de classe, les entrevistes amb professors i les enquestes als estudiants, s'han obtingut resultats significatius que proporcionen una comprensió més profunda de l'ús de la IA i les seves implicacions en l'àmbit educatiu. Aquesta informació és essencial per a una presa de decisions informada i per a l'avançament de l'ús de la IA en l'educació.
 
-## Resultats de l'experiment - manual divisor
+
 
 # Resultats de l'experiment
 
@@ -328,7 +418,7 @@ Els resultats de l'experiment tenen diverses implicacions per a la pràctica edu
 
 En resum, l'anàlisi dels resultats de l'experiment ha proporcionat una comprensió més profunda de l'impacte de la IA en l'educació. A partir de les dades quantitatives i qualitatives, s'han identificat els efectes positius en l'aprenentatge dels estudiants i les pràctiques educatives dels professors. Aquests resultats tenen implicacions importants per a la pràctica educativa i poden guiar la implementació de la IA per millorar l'experiència educativa.
 
-## Discussió dels resultats - manual divisor
+
 
 # Discussió dels resultats
 
@@ -387,7 +477,7 @@ Encara hi ha moltes oportunitats per a la futura recerca en el camp de la intel�
 
 En resum, els resultats de l'experiment suggereixen que la intel·ligència artificial pot tenir un impacte positiu en l'aprenentatge dels alumnes en l'educació. Els sistemes de tutoria virtual basats en la intel·ligència artificial poden proporcionar una atenció personalitzada als alumnes, oferint retroalimentació immediata i fomentant la seva motivació i interès en l'aprenentatge. No obstant això, també hi ha desafiaments associats a l'ús de la intel·ligència artificial en l'educació, com la necessitat d'una infraestructura adequada i la formació dels educadors. La futura recerca en aquest àmbit pot proporcionar més insights sobre l'eficàcia i les implicacions de la utilització de la intel·ligència artificial en l'educació.
 
-## Implicacions per a la pràctica educativa - manual divisor
+
 
 # Implicacions per a la pràctica educativa
 
@@ -431,7 +521,7 @@ La integració de la intel·ligència artificial en l'educació té diverses imp
 
 No obstant això, és important recordar que la intel·ligència artificial no pot substituir completament la interacció humana i la relació entre els educadors i els alumnes. Les eines basades en la intel·ligència artificial són un complement a l'educació tradicional i han de ser utilitzades de manera equilibrada i ajustada a les necessitats de cada alumne i context educatiu.
 
-## Futura recerca en intel·ligència artificial i educació - manual divisor
+
 
 # Futura recerca en intel·ligència artificial i educació
 
@@ -465,7 +555,7 @@ Els investigadors poden explorar les implicacions ètiques de la intel·ligènci
 
 La futura recerca en el camp de la intel·ligència artificial i l'educació és essencial per comprendre millor el potencial i els desafiaments d'aquesta tecnologia en el context educatiu. El desenvolupament de sistemes de tutoria virtual més avançats, l'avaluació de l'impacte de la intel·ligència artificial en diferents matèries i nivells educatius, i l'estudi dels desafiaments i les implicacions ètiques són algunes de les àrees prometedores per a la futura recerca. Aquesta recerca pot contribuir a millorar l'eficàcia i l'accessibilitat de l'educació utilitzant la intel·ligència artificial.
 
-## Conclusions - manual divisor
+
 
 # Conclusions
 
@@ -481,7 +571,7 @@ Les implicacions per a la pràctica educativa són importants a tenir en compte.
 
 En conclusió, la integració de la intel·ligència artificial en l'educació pot obrir noves oportunitats per a l'aprenentatge dels alumnes i millorar l'eficàcia del sistema educatiu. No obstant això, és important utilitzar la intel·ligència artificial de manera equilibrada i ajustada a les necessitats dels alumnes i els contextos educatius. La recerca futura en aquest àmbit pot proporcionar més insights sobre l'eficàcia i les implicacions de la utilització de la intel·ligència artificial en l'educació, i ajudar a millorar la pràctica educativa i l'aprenentatge dels alumnes.
 
-## Referències - manual divisor
+
 
 # Referències
 
@@ -505,7 +595,7 @@ En conclusió, la integració de la intel·ligència artificial en l'educació p
 
 10. Zhu, X., & Xie, S. (2012). Education data mining and learning analytics. In Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (pp. 289-292). ACM.
 
-## Annex- Dades de l'experiment. - manual divisor
+
 
 # Annex- Dades de l'experiment
 

@@ -1,9 +1,9 @@
 import fs from "fs";
 
+import * as fsextra from "fs-extra";
+
 import { fetchEventSource } from "@waylaidwanderer/fetch-event-source";
 
-import inquirer from "inquirer";
-import chalkAnimation from "chalk-animation";
 import { createSpinner } from "nanospinner";
 
 import { exec } from "child_process";
@@ -12,57 +12,55 @@ import markdownToc from "markdown-toc";
 import dotenv from "dotenv";
 dotenv.config();
 
-(async () => {
-    console.clear();
-    await init();
-    console.clear();
+import Fastify from "fastify";
+const fastify = Fastify({ logger: true });
 
-    const title = await promptInput("Quin és el títol del document de recerca?", "Analitza la diversitat lingüística a les xarxes socials");
-    const language = await promptLanguage("Quin és el llenguatge del document de recerca?", "Catalá (Català)");
+import staticPlugin from "fastify-static";
 
-    console.clear();
-    await generateAll(title, language);
-})();
+import path from 'path';
+import { fileURLToPath } from 'url';
 
-async function promptInput(message, defaultInput) {
-    const { input } = await inquirer.prompt([
-        {
-            type: "input",
-            name: "input",
-            message,
-            default: defaultInput,
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+
+fastify.register(staticPlugin, {
+    root: path.join(__dirname, 'public'),
+    prefix: '/public/',
+});
+
+fastify.get('/', async (request, reply) => {
+    return reply.sendFile('index.html');
+});
+
+fastify.post('/generate-pdf', async (request, reply) => {
+    const { title, language, token } = request.body;
+
+    if (!title || !language || !token) {
+        return reply.status(400).send({ error: "Invalid input" });
+    }
+
+    await generateAll(title, language, token);
+
+    async function moveDirectory(source, destination) {
+        try {
+            await fsextra.copy(source, destination);
+            await fsextra.remove(source);
+            console.log("Carpeta movida exitosamente.");
+        } catch (err) {
+            console.error("Error al mover la carpeta:", err);
         }
-    ]);
-    return input;
-}
+    }
 
-async function promptLanguage(message, defaultLanguage) {
-    const { language } = await inquirer.prompt([
-        {
-            type: "list",
-            name: "language",
-            message,
-            choices: [
-                "English",
-                "Spanish (Español)",
-                "French (Français)",
-                "Catalá (Català)",
-            ],
-            default: defaultLanguage,
-        }
-    ]);
-    return language;
-}
+    const oldPath = `./${title.replaceAll(" ", "_")}`;
+    const newPath = path.join(__dirname, 'public', title.replaceAll(" ", "_"));
+    await moveDirectory(oldPath, newPath);
 
-async function init() {
-    const rainbowTitle = chalkAnimation.rainbow("Generador de Treballs de Recerca | v1.0.0");
+    const pdfPath = `/${title.replaceAll(" ", "_")}/total.pdf`;
+    return reply.send({ success: true, url: pdfPath });
+});
 
-    await new Promise(resolve => setTimeout(resolve, 1000));
-
-    rainbowTitle.stop(); return;
-}
-
-async function generateAll(title, language) {
+async function generateAll(title, language, token) {
     const instructions = {
         todo: `Get all the section titles for a research paper that MUST have at least 25000 words. The paper language is ${language}. The title of the research paper is ${title}, make all the section titles related to the title. The section titles must contain 3-10 words. The section tiles must be on ${language}. You may need to add an experiment. Add titles for all the sections that a research paper needs. The limit of sections is 16 sections. The sections MUST be displayed as a list divided by a comma.  DO NOT INCLUDE ANY NUMBERS OR PUNCTUATION MARKS.`,
         section: ``
@@ -84,7 +82,7 @@ async function generateAll(title, language) {
 
     if (!fs.existsSync(`${folder}/todo.txt`)) {
         fs.writeFileSync(`${folder}/todo.txt`, r.todo);
-        r.todo = await generateTodo(instructions);
+        r.todo = await generateTodo(instructions, token);
         fs.writeFileSync(`${folder}/todo.txt`, r.todo);
     } else { r.todo = fs.readFileSync(`${folder}/todo.txt`, "utf-8"); }
 
@@ -130,7 +128,7 @@ async function generateAll(title, language) {
 
             const tocContent = markdownToc(cleanedData, { depth: 3 }).content;
             const markdownWithToc = `${tocContent}\n${cleanedData}`;
-    
+
             fs.writeFile(`${folder}/total.md`, markdownWithToc, (writeError) => {
                 if (writeError) { finalSpinner.error({ text: "Error generating final PDF document" }); return; }
 
@@ -143,7 +141,7 @@ async function generateAll(title, language) {
     } else { finalSpinner.success({ text: "Final PDF document generated" }); }
 }
 
-async function generateTodo(instructions) {
+async function generateTodo(instructions, token) {
     let r = "";
 
     await fetchEventSource(process.env.TURING_BASE_URL, {
@@ -157,12 +155,11 @@ async function generateTodo(instructions) {
             ],
             max_tokens: 2040,
             temperature: 0.4,
-            model: "gpt-4",
+            model: "gpt-3.5-turbo-16k",
             stream: true
         }),
         headers: {
-            Authorization: process.env.TURING_API_KEY,
-            "x-captcha-token": process.env.TURING_API_CAPTCHA,
+            Authorization: token,
             "Content-Type": "application/json"
         },
 
@@ -213,8 +210,7 @@ async function generateSection(section, route, route1, instructions, text, conte
             stream: true
         }),
         headers: {
-            Authorization: process.env.TURING_API_KEY,
-            "x-captcha-token": process.env.TURING_API_CAPTCHA,
+            Authorization: token,
             "Content-Type": "application/json"
         },
 
@@ -244,3 +240,15 @@ async function generateSection(section, route, route1, instructions, text, conte
 
     return res;
 }
+
+const start = async () => {
+    try {
+        await fastify.listen(3000);
+        fastify.log.info(`server listening on 3000`);
+    } catch (err) {
+        fastify.log.error(err);
+        process.exit(1);
+    }
+}
+
+start();
