@@ -1,15 +1,81 @@
 <!DOCTYPE html>
 <html lang="cat">
+<html itemscope itemtype="http://schema.org/WebPage" lang="cat">
 
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PaperGPTAgent Demo</title>
-    <link rel="stylesheet" href="./styles.css">
+    <title>PaperGPT - Genera els teus treballs de Recerca</title>
+
+    <!-- Meta SEO -->
+    <meta name="title" content="PaperGPT - Genera els teus treballs de Recerca"/>
+    <meta itemprop="name" content="PaperGPT - Genera els teus treballs de Recerca"/>
+    <meta name="description" content="Demostració del projecte 'PaperGPT', creador de treballs de recerca de forma automatitzada"/>
+    <meta itemprop="description" content="Demostració del projecte 'PaperGPT', creador de treballs de recerca de forma automatitzada"/>
+    <meta name="keywords" content="manel, Manel, manel comiche, Manel Comiche, Manel Comiche desarrollador, comiche manel, manel comiche discord, discord manel commiche, papergpt, treball de recerca, generador, chatgpt">
+    <meta itemprop="keywords" content="manel, Manel, manel comiche, Manel Comiche, Manel Comiche desarrollador, comiche manel, manel comiche discord, discord manel commiche, papergpt, treball de recerca, generador, chatgpt">
+    <meta name="robots" content="index, follow"/>
+    <meta name="language" content="Catalan"/>
+    <meta name="HandheldFriendly" content="True"/>
+    <meta name="MobileOptimized" content="width"/>
+
+    <link rel="canonical" href="https://demo.manel.engineer/"/>
+    <link rel="alternate" href="https://demo.manel.engineer/" hreflang="es">
+
+    <!-- Open Graph / Facebook -->
+    <meta name="og:locale" content="ca_ES"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="PaperGPT - Crea els teus treballs de Recerca"/>
+    <meta property="og:url" content="https://demo.manel.engineer/"/>
+    <meta property="og:title" content="PaperGPT - Genera els teus treballs de Recerca"/>
+    <meta property="og:description" content="Demostració del projecte 'PaperGPT', creador de treballs de recerca de forma automatitzada"/>
+    <meta property="og:image" content="/assets/nameBanner.webp"/>
+
+    <!-- Twitter -->
+    <meta name="twitter:creator" content="@manelcomiche"/>
+    <meta name="twitter:site" content="@manelcomiche"/>
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:url" content="https://demo.manel.engineer/"/>
+    <meta property="twitter:title" content="PaperGPT - Genera els teus treballs de Recerca"/>
+    <meta property="twitter:description" content="Demostració del projecte 'PaperGPT', creador de treballs de recerca de forma automatitzada"/>
+    <meta property="twitter:image" content="/assets/nameBanner.webp"/>
+    <meta property="twitter:image:alt" content="Banner de perfil - Manel Comiche"/>
+
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-P951J6BHZ5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-P951J6BHZ5');
+    </script>
+
+    <!-- Web Schema -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "PaperGPT - Genera els teus treballs de Recerca",
+            "url": "https://demo.manel.engineer/"
+        }
+    </script>
+
+    <!-- MISSCELANEO -->
+    <meta name="msapplication-TileColor" content="#da532c">
+    <link href="./styles.css" rel="stylesheet">
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.webp">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.webp">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.webp">
 </head>
 
 <body>
-
     <div class="main-container">
         <h1>PaperGPTAgent</h1>
         <h4>Genera un document complet de recerca en PDF només amb un títol!</h4>
@@ -35,7 +101,7 @@
             </div>
             <br>
             <button type="button" id="fillDemo">Omplir Camps - Demostració</button>
-            <button type="button" id="sendDemo" style="display:none;">Enviar Demostració a ChatGPT</button>
+            <button type="button" id="sendDemo" style="display:none;">Enviar Demostració de Generació</button>
         </form>
     </div>
 
