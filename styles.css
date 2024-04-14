@@ -136,12 +136,21 @@ textarea {
         padding: 10px;
     }
 
-    h1 {
-        font-size: 24px;
+    h1,
+    h4 {
+        font-size: 20px;
+        /* Reduce el tamaño de los títulos para evitar que ocupen demasiado espacio */
+    }
+
+    .content-wrapper,
+    .github-link-container {
+        max-width: 100%;
+        /* Permite que los contenedores usen todo el ancho disponible */
     }
 
     .main-container {
-        padding: 15px;
+        padding: 10px;
+        /* Reduce el padding para aumentar el espacio disponible para el contenido */
     }
 
     input,
@@ -149,9 +158,42 @@ textarea {
     button,
     textarea {
         font-size: 14px;
+        /* Reduce el tamaño de la fuente para ajustarse mejor en pantallas pequeñas */
     }
 
     .github-link {
-        padding: 10px 15px;
+        padding: 8px 10px;
+        /* Reduce un poco más el padding para asegurar que el botón no sea demasiado grande */
+        flex-direction: column;
+        /* Coloca el logo sobre el texto para ahorrar espacio horizontal */
+        align-items: center;
+        /* Alinea el logo y el texto al centro verticalmente y horizontalmente */
+    }
+
+    .github-logo {
+        margin: 0 0 5px 0;
+        /* Ajusta los márgenes para colocar el logo directamente sobre el texto */
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    h1,
+    h4 {
+        font-size: 18px;
+        /* Reduce aún más el tamaño del texto para dispositivos muy pequeños */
+    }
+
+    input,
+    select,
+    button,
+    textarea {
+        font-size: 12px;
+        /* Hace las fuentes un poco más pequeñas para dispositivos de pantalla muy pequeña */
+    }
+
+    .github-link {
+        padding: 6px 8px;
+        /* Reduce aún más el padding para dispositivos muy pequeños */
     }
 }
