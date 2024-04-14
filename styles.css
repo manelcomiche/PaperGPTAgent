@@ -4,9 +4,54 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center;     /* Centra verticalmente */
-    height: 100vh;           /* Altura completa de la ventana del navegador */
+    justify-content: center;
+    /* Centra horizontalmente */
+    align-items: center;
+    /* Centra verticalmente */
+    height: 100vh;
+    /* Altura completa de la ventana del navegador */
+}
+
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+    /* Límite de ancho para que no crezca demasiado en pantallas grandes */
+}
+
+.main-container,
+.github-link-container {
+    width: 100%;
+    /* Establece que cada elemento hijo tenga el mismo ancho */
+}
+
+.github-link-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.github-link {
+    text-decoration: none;
+    color: white;
+    background-color: #333;
+    padding: 15px 20px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* Asegura que use todo el ancho posible dentro de su contenedor */
+}
+
+.github-logo {
+    height: 32px;
+    width: 32px;
+    margin-right: 10px;
+    border-radius: 50%;
+    /* Hace el logo redondo */
 }
 
 h1 {
@@ -25,8 +70,8 @@ h4 {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 100%;             /* Uso del 100% del ancho */
-    max-width: 500px;        /* No excede de 500px */
+    width: 100%;
+    max-width: 500px;
 }
 
 form {
@@ -39,7 +84,10 @@ label {
     font-weight: bold;
 }
 
-input, select, button, textarea {
+input,
+select,
+button,
+textarea {
     width: 100%;
     padding: 10px;
     border: 1px solid #ddd;
@@ -49,8 +97,8 @@ input, select, button, textarea {
 }
 
 textarea {
-    height: 120px;  /* Ajusta esto si quieres un tamaño específico */
-    resize: vertical;  /* Permite al usuario redimensionar verticalmente */
+    height: 120px;
+    resize: vertical;
 }
 
 button {
@@ -64,11 +112,12 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* ... (resto de tu CSS) ... */
-
-input, select, textarea, button {
-    width: 100%; /* Aseguramos que ambos ocupen el 100% del espacio disponible */
-    box-sizing: border-box; /* Esto hará que padding y bordes estén incluidos en el ancho */
+input,
+select,
+textarea,
+button {
+    width: 100%;
+    box-sizing: border-box;
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -77,12 +126,11 @@ input, select, textarea, button {
 }
 
 textarea {
-    height: 100px; /* Ajustamos la altura del textarea */
-    resize: vertical; /* Permitimos que se redimensione sólo verticalmente */
+    height: 100px;
+    resize: vertical;
 }
 
 
-/* Responsive styles */
 @media screen and (max-width: 768px) {
     body {
         padding: 10px;
@@ -93,10 +141,17 @@ textarea {
     }
 
     .main-container {
-        padding: 15px; /* Reduce el padding para pantallas pequeñas */
+        padding: 15px;
     }
 
-    input, select, button, textarea {
+    input,
+    select,
+    button,
+    textarea {
         font-size: 14px;
+    }
+
+    .github-link {
+        padding: 10px 15px;
     }
 }
