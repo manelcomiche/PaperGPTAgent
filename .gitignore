@@ -1,8 +1,0 @@
-# NODE MODULES
-/node_modules
-
-# TEST FILES
-index.cat.js
-
-# SECRET FILES
-.env
