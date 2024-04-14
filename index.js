@@ -130,7 +130,7 @@ async function generateAll(title, language) {
 
             const tocContent = markdownToc(cleanedData, { depth: 3 }).content;
             const markdownWithToc = `${tocContent}\n${cleanedData}`;
-    
+
             fs.writeFile(`${folder}/total.md`, markdownWithToc, (writeError) => {
                 if (writeError) { finalSpinner.error({ text: "Error generating final PDF document" }); return; }
 
