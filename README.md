@@ -14,7 +14,7 @@ To run this application, make sure you have Node.js installed on your system. If
 
 1. Clone this repository to your local machine:
 
-    git clone https://github.com/LHCLYT/PaperGPTAgent
+    git clone https://github.com/manelcomiche/PaperGPTAgent
 
 2. Navigate to the project directory:
 
