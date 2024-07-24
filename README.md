@@ -28,7 +28,7 @@ To run this application, make sure you have Node.js installed on your system. If
 
 ## 👥 Authors
 - Manel Comiche
-    - Email: [manel@manel.engineer](mailto:hola@manelcomiche.com)
+    - Email: [hola@manelcomiche.com](mailto:hola@manelcomiche.com)
 
 - Leo - turing.sh
     - Email: [turing@turing.sh](mailto:turing@turing.sh)
