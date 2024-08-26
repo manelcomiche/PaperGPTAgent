@@ -1,12 +1,12 @@
 {
-  "name": "eduproject",
+  "name": "papergptagent",
   "version": "1.0.0",
-  "description": "a simple education proyect test",
+  "description": "a simple education project test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lhclyt",
+  "author": "Manel Comiche",
   "license": "ISC",
   "dependencies": {
     "@waylaidwanderer/fetch-event-source": "^3.0.1",
