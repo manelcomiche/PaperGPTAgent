@@ -124,7 +124,7 @@ async function generateAll(title, language) {
 
     if (!fs.existsSync(pdfFileName)) {
         fs.readFile(`${folder}/total.md`, "utf-8", (readError, data) => {
-            if (readError) { finalSpinner.error({ text: "Error generating final PDF document" }); return; }
+            if (readError) { finalSpinner.error({ text: "Error generating final PDF document -1" }); return; }
 
             const cleanedData = data.replace(/^##.*- manual divisor.*$/gm, "");
 
@@ -132,10 +132,10 @@ async function generateAll(title, language) {
             const markdownWithToc = `${tocContent}\n${cleanedData}`;
 
             fs.writeFile(`${folder}/total.md`, markdownWithToc, (writeError) => {
-                if (writeError) { finalSpinner.error({ text: "Error generating final PDF document" }); return; }
+                if (writeError) { finalSpinner.error({ text: "Error generating final PDF document -2" }); return; }
 
                 exec(`markdown-pdf "${folder}/total.md" -o "${pdfFileName}" --css-path "./assets/pdf.css"`, (pdfError, stdout, stderr) => {
-                    if (pdfError) { finalSpinner.error({ text: "Error generating final PDF document" }); return; }
+                    if (pdfError) { finalSpinner.error({ text: "Error generating final PDF document -3" }); console.error(stderr); return; }
                     else { finalSpinner.success({ text: "Final PDF document generated" }); return; }
                 });
             });
@@ -144,9 +144,7 @@ async function generateAll(title, language) {
 }
 
 async function generateTodo(instructions) {
-    let r = "";
-
-    await fetchEventSource(process.env.TURING_BASE_URL, {
+    const response = await fetch(process.env.LLM_BASE_URL, {
         method: "POST",
         body: JSON.stringify({
             messages: [
@@ -156,44 +154,32 @@ async function generateTodo(instructions) {
                 }
             ],
             max_tokens: 2040,
-            temperature: 0.4,
-            model: "gpt-4",
-            stream: true
+            temperature: 0.7,
+            model: "gpt-4o-2024-11-20",
         }),
         headers: {
-            Authorization: process.env.TURING_API_KEY,
-            "x-captcha-token": process.env.TURING_API_CAPTCHA,
+            Authorization: process.env.LLM_API_KEY,
             "Content-Type": "application/json"
-        },
-
-        async onopen(response) {
-            if (response.ok) { return console.log("Connection established."); }
-            else if (response.status >= 400 && response.status < 500 && response.status !== 429) {
-                console.log("Connection failed.");
-                console.log(response);
-            } else { console.log("ERROR"); }
-        },
-
-        onclose() { },
-
-        onerror(err) { console.error(err); },
-
-        onmessage: (event) => {
-            let data = JSON.parse(event.data);
-            r = data.result;
-            fs.writeFileSync("todo.txt", r);
         }
     });
 
-    return r;
+    if (!response.ok) {
+        console.error("Error generating TODO:", response.statusText);
+        throw new Error("Failed to generate TODO");
+    }
+
+    const data = await response.json();
+    console.log(data);
+
+    const result = data.choices[0].message.content;
+    fs.writeFileSync("todo.txt", result);
+    return result;
 }
 
 async function generateSection(section, route, route1, instructions, text, context) {
-    let res = "";
+    const userMessage = `The title of the section is ${section}.`;
 
-    const u = `The title of the section is ${section}.`;
-
-    await fetchEventSource(process.env.TURING_BASE_URL, {
+    const response = await fetch(process.env.LLM_BASE_URL, {
         method: "POST",
         body: JSON.stringify({
             messages: [
@@ -204,43 +190,32 @@ async function generateSection(section, route, route1, instructions, text, conte
                 ...context,
                 {
                     role: "user",
-                    content: u
+                    content: userMessage
                 }
             ],
-            max_tokens: 4096,
+            max_tokens: 8192,
             temperature: 0.7,
-            model: "gpt-3.5-turbo-16k",
-            stream: true
+            model: "gpt-4o-2024-11-20",
         }),
         headers: {
-            Authorization: process.env.TURING_API_KEY,
-            "x-captcha-token": process.env.TURING_API_CAPTCHA,
+            Authorization: process.env.LLM_API_KEY,
             "Content-Type": "application/json"
-        },
-
-        async onopen(response) {
-            if (response.ok) { return console.log("Connection established."); }
-            else if (response.status >= 400 && response.status < 500 && response.status !== 429) {
-                console.log("Connection failed.");
-                console.log(response);
-            } else { console.log("ERROR 1"); }
-        },
-
-        onclose() { console.log("ERROR 2"); },
-
-        onerror(err) { console.error(err); },
-
-        onmessage: (event) => {
-            let data = JSON.parse(event.data);
-            res = data.result;
-
-            fs.writeFileSync(route, res);
-            fs.writeFileSync(route1, `${text}\n\n## ${section}  - manual divisor\n\n${res}\n`);
         }
     });
 
-    context.push({ role: "user", content: u });
-    context.push({ role: "assistant", content: res });
+    if (!response.ok) {
+        console.error("Error generating section:", response);
+        throw new Error("Failed to generate section");
+    }
 
-    return res;
+    const data = await response.json();
+    const result = data.choices[0].message.content;
+
+    fs.writeFileSync(route, result);
+    fs.writeFileSync(route1, `${text}\n\n## ${section}  - manual divisor\n\n${result}\n`);
+
+    context.push({ role: "user", content: userMessage });
+    context.push({ role: "assistant", content: result });
+
+    return result;
 }

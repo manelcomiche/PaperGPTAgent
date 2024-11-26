@@ -71,9 +71,11 @@ This project was created and maintained by:
 
 A special thanks to **Turing.sh** for providing the technology and support to make this application possible. Their API and collaborative spirit have been invaluable to this project's success.
 
+*Since Turing.sh ceased its service, the official OpenAI API's are now used.*
+
 ## 📜 License
 
-This project is licensed under the **Common Development and Distribution License 1.0 (CDDL-1.0)**. For more details, see the [LICENSE](LICENSE) file.
+This project is licensed under the **AGPL-3.0 license**. For more details, see the [LICENSE](LICENSE) file.
 
 ---
 
